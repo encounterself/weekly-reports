@@ -29,17 +29,19 @@
 
 ```mermaid
 flowchart LR
-    U[用户] --> A[study-assistant<br/>主控编排 + 学习档案]
+    U[用户] --> E[exam-analysis<br/>真题解析 + 考试权重]
+    E --> A[study-assistant<br/>主控编排 + 学习档案]
     A --> M[study-mindmap<br/>思维导图]
     A --> T[study-teach<br/>讲义 + 答疑]
     A --> Q[study-quiz<br/>出题 · 批改 · 错题本]
     A --> F[study-feynman<br/>费曼检验]
     A --> I[study-img<br/>识图]
-    M & T & Q & F -.读写.-> S[(学习工作区<br/>open · internal · question-bank)]
+    M & T & Q & F & E -.读写.-> S[(学习工作区<br/>open · internal · question-bank)]
 ```
 
 | Skill | 职责 |
 |---|---|
+| `exam-analysis` | **考试数据层**：解析 PDF/DOCX/OCR 真题，拆分小问，映射已有知识点，计算可解释权重，生成考试版知识地图和复习优先级；不重复蒸馏教材，也不做“必考预测” |
 | `study-assistant` | **主控**：建档、编排全流程、节奏控制、跨会话续学（只读 30 行摘要） |
 | `study-mindmap` | 交互思维导图，掌握度着色，随学习进度刷新 |
 | `study-teach` | 每次一个知识点讲义；支持深入讲解/考试速通、交互例题、表格、函数图、来源标注；章节完成后强制合并并审查整章主 HTML |

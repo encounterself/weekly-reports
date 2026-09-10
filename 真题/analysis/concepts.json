@@ -1,0 +1,12 @@
+[
+  {"id":"v01","name":"情境化环境容量与自净","module":"环境问题基础","chapter":"第一章 环境学绪论","course_core":true,"prerequisite_count":3,"children":["环境容量","环境自净能力","污染判定"],"depends_on":[]},
+  {"id":"v02","name":"污染物迁移与转化","module":"污染过程","chapter":"第一章 环境学绪论","course_core":true,"prerequisite_count":4,"children":["迁移类型","转化过程","暴露路径"],"depends_on":["v01"]},
+  {"id":"v03","name":"水体富营养化与负荷","module":"水污染控制","chapter":"第二章 水污染及其防治","course_core":true,"prerequisite_count":2,"children":["氮磷负荷","外源控制","内源释放"],"depends_on":["v01","v02"]},
+  {"id":"v04","name":"大气污染事件诊断","module":"大气污染控制","chapter":"第三章 大气污染及其防治","course_core":true,"prerequisite_count":2,"children":["污染源","气象条件","前体物控制"],"depends_on":["v01","v02"]},
+  {"id":"v05","name":"土壤污染与修复","module":"土壤污染控制","chapter":"第四章 土壤污染及其防治","course_core":true,"prerequisite_count":3,"children":["污染来源","有效性","安全利用与修复"],"depends_on":["v01","v02"]},
+  {"id":"v06","name":"清洁生产与物料流","module":"固废与全过程控制","chapter":"第五章 固体废物污染及其防治 / 第十二章 可持续发展","course_core":true,"prerequisite_count":3,"children":["源头减量","过程控制","资源化与3R"],"depends_on":["v01"]},
+  {"id":"v07","name":"农药风险与农产品安全","module":"农业环境","chapter":"第七章 农业污染及其防治 / 第八章 农产品安全","course_core":false,"prerequisite_count":1,"children":["农药迁移转化","残留风险","使用控制"],"depends_on":["v02","v05"]},
+  {"id":"v08","name":"农业资源化与生态循环","module":"农业环境","chapter":"第七章 农业污染及其防治 / 第九章 生态保护","course_core":false,"prerequisite_count":1,"children":["粪污消纳","种养循环","受纳容量"],"depends_on":["v01","v06"]},
+  {"id":"v09","name":"环境监测与质量控制","module":"监测评价","chapter":"第十章 环境监测与评价","course_core":true,"prerequisite_count":3,"children":["采样设计","QA/QC","评价与不确定性"],"depends_on":["v01","v02"]},
+  {"id":"v10","name":"环境规划与多方案决策","module":"环境管理","chapter":"第十一章 环境规划与管理","course_core":true,"prerequisite_count":2,"children":["目标设定","削减量分配","方案比较"],"depends_on":["v01","v09"]}
+]

@@ -1,0 +1,28 @@
+{
+  "textbook": "867 环境学考试版知识体系",
+  "subject_type": "考研专业课",
+  "updated": "2026-09-10",
+  "source": "真题/analysis/exam-frequency.csv",
+  "chapters": [
+    {"id":1,"title":"环境问题基础与污染过程","sections":[{"title":"核心概念","points":[
+      {"id":"1.1.1","name":"情境化环境容量与自净","importance":"高","status":"未学","mastery":0,"note":"★★★★★；8年出现，先掌握容量、自净、污染判定框架。","exam_weight":{"stars":"★★★★★","years":8,"questions":12,"question_ids":["2025-S-07","2021-SA-02","2022-SA-02"]}},
+      {"id":"1.1.2","name":"污染物迁移与转化","importance":"高","status":"未学","mastery":0,"note":"★★★★★；12年出现，贯穿水、土、农业和污水处理题。","exam_weight":{"stars":"★★★★★","years":12,"questions":33,"question_ids":["2025-SA-06","2022-L-01","2023-CA-01"]}}
+    ]}]},
+    {"id":2,"title":"水污染及其防治","sections":[{"title":"水体过程与处理","points":[
+      {"id":"2.1.1","name":"水体富营养化与负荷","importance":"高","status":"未学","mastery":0,"note":"★★★★★；7年出现，重点掌握氮磷、外源/内源和生物脱氮除磷。","exam_weight":{"stars":"★★★★★","years":7,"questions":10,"question_ids":["2025-CA-01-3","2023-L-01","2022-L-01"]}}
+    ]}]},
+    {"id":3,"title":"大气污染及其防治","sections":[{"title":"污染事件与控制","points":[
+      {"id":"3.1.1","name":"大气污染事件诊断","importance":"高","status":"未学","mastery":0,"note":"★★★★★；9年出现，重点掌握烟雾类型、形成条件和控制。","exam_weight":{"stars":"★★★★★","years":9,"questions":16,"question_ids":["2014-SA-01","2018-SA-01","2022-SA-05"]}}
+    ]}]},
+    {"id":4,"title":"土壤、农业与生态环境","sections":[{"title":"土壤与农业风险","points":[
+      {"id":"4.1.1","name":"土壤污染与修复","importance":"高","status":"未学","mastery":0,"note":"★★★★★；8年出现，重点掌握有效性、迁移、监测、安全利用和修复。","exam_weight":{"stars":"★★★★★","years":8,"questions":20,"question_ids":["2025-CA-02-2","2025-CA-02-3","2019-CA-01"]}},
+      {"id":"4.1.2","name":"农业资源化与生态循环","importance":"中","status":"未学","mastery":0,"note":"★★★★☆；9年出现，重点掌握受纳容量、种养循环和资源化边界。","exam_weight":{"stars":"★★★★☆","years":9,"questions":10,"question_ids":["2023-L-02","2022-SA-07"]}},
+      {"id":"4.1.3","name":"农药风险与农产品安全","importance":"中","status":"未学","mastery":0,"note":"★★★☆☆；跨年证据较少但近年有题，掌握迁移转化和残留风险。","exam_weight":{"stars":"★★★☆☆","years":3,"questions":4,"question_ids":["2025-SA-06","2023-S-01"]}}
+    ]}]},
+    {"id":5,"title":"固废、监测与环境管理","sections":[{"title":"全过程治理与决策","points":[
+      {"id":"5.1.1","name":"清洁生产与物料流","importance":"高","status":"未学","mastery":0,"note":"★★★★★；9年出现，按源头减量—过程控制—资源化—末端处置组织答案。","exam_weight":{"stars":"★★★★★","years":9,"questions":13,"question_ids":["2020-L-02","2022-SA-03","2015-L-01"]}},
+      {"id":"5.1.2","name":"环境监测与质量控制","importance":"高","status":"未学","mastery":0,"note":"★★★★★；7年出现，重点掌握目的、布点、采样、QA/QC和评价。","exam_weight":{"stars":"★★★★★","years":7,"questions":14,"question_ids":["2025-SA-01","2021-SA-07","2023-L-01"]}},
+      {"id":"5.1.3","name":"环境规划与多方案决策","importance":"高","status":"未学","mastery":0,"note":"★★★★★；9年出现，重点掌握目标—削减量—方案比较—实施保障。","exam_weight":{"stars":"★★★★★","years":9,"questions":24,"question_ids":["2025-SA-05","2021-L-01","2023-CA-02"]}}
+    ]}]}
+  ]
+}
