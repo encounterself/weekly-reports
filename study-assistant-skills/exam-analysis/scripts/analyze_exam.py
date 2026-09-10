@@ -103,8 +103,8 @@ def main():
         question_years = [int(q["year"]) for q in entries if q.get("year") is not None]
         distinct_years = set(question_years)
         recent_count = sum(year >= recent_floor for year in question_years)
-        subjective = sum(q.get("question_type") in {"名词解释", "简答题", "问答题", "论述题", "分析题", "分析论述题", "综合题", "案例分析"} for q in entries)
-        comprehensive = sum(q.get("question_type") in {"分析题", "分析论述题", "综合题", "案例分析"} for q in entries)
+        subjective = sum(q.get("question_type") in {"名词解释", "简答题", "问答题", "辨析题", "论述题", "分析题", "分析论述题", "综合题", "案例分析", "材料分析题"} for q in entries)
+        comprehensive = sum(q.get("question_type") in {"分析题", "分析论述题", "综合题", "案例分析", "材料分析题"} for q in entries)
         score_total = sum(float(q["score"]) for q in entries if q.get("score") is not None)
         cooccurrence = Counter(
             other
@@ -175,7 +175,7 @@ def main():
     def evidence(row):
         return f"出现 {row['question_count']} 题 / {row['year_count']} 年；近5年 {row['recent_count']} 题；主观题 {row['subjective_count']} 题；综合题 {row['comprehensive_count']} 题；总分 {row['score_total']}。"
 
-    lines = ["# 867 环境学考试版知识体系", "", f"> 已纳入 {len(valid)} 条已确认题目；另有 {len(review)} 条待复核。权重用于复习排序，不是押题结论。", "", f"> 数据年份：{min(years) if years else '-'}—{max(years) if years else '-'}；未提供 2024 年真题，因此 2024 不参与趋势判断。", ""]
+    lines = ["# 867 环境学考试版知识体系", "", f"> 已纳入 {len(valid)} 条已确认题目；另有 {len(review)} 条待复核。权重用于复习排序，不是押题结论。", "", f"> 数据年份：{min(years) if years else '-'}—{max(years) if years else '-'}；缺失年份不补值，也不参与趋势判断。", ""]
     lines += ["## 重点排序", "", "| 等级 | 知识点 | 证据摘要 | 趋势 |", "|---|---|---|---|"]
     for row in rows:
         lines.append(f"| {row['stars']} {row['importance']} | {row['concept']} | {evidence(row)} | {row['trend']} |")

@@ -24,4 +24,4 @@ python3 study-assistant-skills/exam-analysis/scripts/analyze_exam.py \
 
 ## 统计边界
 
-当前纳入 2013—2023、2025 年资料；2024 年真题未提供，因此不补值。2013—2023 的部分记录是根据参考答案核对出的考查主题，不保证逐字复原原题，具体见 `question_fidelity` 和 `source-inventory.md`。
+当前纳入 2012—2025 年资料。2013—2023 的部分记录是根据参考答案核对出的考查主题，不保证逐字复原原题，具体见 `question_fidelity` 和 `source-inventory.md`。
