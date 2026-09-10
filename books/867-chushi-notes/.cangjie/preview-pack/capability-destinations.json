@@ -1,0 +1,49 @@
+{
+  "generated_by": "cangjie-tools v2.5.0",
+  "bundle_id": "bundle.867-chushi-notes",
+  "router_entrypoint": "867-environmental-router",
+  "entrypoint_count": 8,
+  "capability_count": 10,
+  "destinations": {
+    "cap.867-chushi-notes.context-capacity": {
+      "promoted_to": "context-capacity",
+      "router_view": "867-environmental-router/references/capabilities/context-capacity.md"
+    },
+    "cap.867-chushi-notes.cross-media-tracing": {
+      "promoted_to": "cross-media-tracing",
+      "router_view": "867-environmental-router/references/capabilities/cross-media-tracing.md"
+    },
+    "cap.867-chushi-notes.eutrophication-load": {
+      "served_by": "867-environmental-router",
+      "card": "867-environmental-router/references/capabilities/eutrophication-load.md"
+    },
+    "cap.867-chushi-notes.atmospheric-episode": {
+      "promoted_to": "atmospheric-episode",
+      "router_view": "867-environmental-router/references/capabilities/atmospheric-episode.md"
+    },
+    "cap.867-chushi-notes.soil-remediation": {
+      "served_by": "867-environmental-router",
+      "card": "867-environmental-router/references/capabilities/soil-remediation.md"
+    },
+    "cap.867-chushi-notes.preventive-material-flow": {
+      "promoted_to": "preventive-material-flow",
+      "router_view": "867-environmental-router/references/capabilities/preventive-material-flow.md"
+    },
+    "cap.867-chushi-notes.pesticide-risk": {
+      "promoted_to": "pesticide-risk",
+      "router_view": "867-environmental-router/references/capabilities/pesticide-risk.md"
+    },
+    "cap.867-chushi-notes.agro-resource-loop": {
+      "served_by": "867-environmental-router",
+      "card": "867-environmental-router/references/capabilities/agro-resource-loop.md"
+    },
+    "cap.867-chushi-notes.monitoring-data": {
+      "promoted_to": "monitoring-data",
+      "router_view": "867-environmental-router/references/capabilities/monitoring-data.md"
+    },
+    "cap.867-chushi-notes.planning-alternatives": {
+      "promoted_to": "planning-alternatives",
+      "router_view": "867-environmental-router/references/capabilities/planning-alternatives.md"
+    }
+  }
+}

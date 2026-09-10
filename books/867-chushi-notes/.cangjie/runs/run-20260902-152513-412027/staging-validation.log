@@ -1,0 +1,6 @@
+  skill: .staging-run-20260902-152513-412027-867-environmental-study   63 行    6227 字节
+
+共扫描 15 个 .md，其中 1 个 SKILL.md
+WARN  [name-dir] books\867-chushi-notes\dist\.staging-run-20260902-152513-412027-867-environmental-study\SKILL.md: name `867-environmental-study` 与目录名 `.staging-run-20260902-152513-412027-867-environmental-study` 不一致
+
+结果: 0 errors, 1 warnings
