@@ -1,0 +1,150 @@
+[
+  {
+    "topic_id": "foundation-capacity",
+    "module_id": "foundation",
+    "name": "环境容量、自净与污染判定",
+    "source_refs": [
+      "books/867-chushi-notes/candidates/glossary.md#g03",
+      "books/867-chushi-notes/candidates/glossary.md#g04"
+    ]
+  },
+  {
+    "topic_id": "foundation-process",
+    "module_id": "foundation",
+    "name": "污染物迁移与暴露路径",
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p02"
+    ]
+  },
+  {
+    "topic_id": "foundation-science",
+    "module_id": "foundation",
+    "name": "环境科学与环境系统",
+    "source_refs": [
+      "books/867-chushi-notes/BOOK_OVERVIEW.md#27"
+    ]
+  },
+  {
+    "topic_id": "water-quality",
+    "module_id": "water",
+    "name": "水质指标与水环境评价",
+    "source_refs": [
+      "books/867-chushi-notes/candidates/glossary.md#g05",
+      "books/867-chushi-notes/candidates/glossary.md#g06"
+    ]
+  },
+  {
+    "topic_id": "water-treatment",
+    "module_id": "water",
+    "name": "污水处理工艺",
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p06",
+      "books/867-chushi-notes/candidates/principles.md#p08"
+    ]
+  },
+  {
+    "topic_id": "water-separation",
+    "module_id": "water",
+    "name": "膜分离、吸附与离子交换",
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p08"
+    ]
+  },
+  {
+    "topic_id": "water-nature",
+    "module_id": "water",
+    "name": "人工湿地与自然处理",
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p06"
+    ]
+  },
+  {
+    "topic_id": "water-ecology",
+    "module_id": "water",
+    "name": "富营养化与水生态响应",
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p05"
+    ]
+  },
+  {
+    "topic_id": "air-events",
+    "module_id": "air",
+    "name": "大气污染事件与扩散",
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p09",
+      "books/867-chushi-notes/candidates/principles.md#p10"
+    ]
+  },
+  {
+    "topic_id": "air-control",
+    "module_id": "air",
+    "name": "大气污染控制与物理性污染",
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p15"
+    ]
+  },
+  {
+    "topic_id": "soil-risk",
+    "module_id": "soil_agriculture",
+    "name": "土壤污染、形态与暴露",
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p11",
+      "books/867-chushi-notes/candidates/principles.md#p12"
+    ]
+  },
+  {
+    "topic_id": "soil-remediation",
+    "module_id": "soil_agriculture",
+    "name": "土壤修复与安全利用",
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p03",
+      "books/867-chushi-notes/candidates/principles.md#p11"
+    ]
+  },
+  {
+    "topic_id": "agriculture-ecology",
+    "module_id": "soil_agriculture",
+    "name": "农业污染、农药与生态循环",
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p16",
+      "books/867-chushi-notes/candidates/principles.md#p17",
+      "books/867-chushi-notes/candidates/principles.md#p20"
+    ]
+  },
+  {
+    "topic_id": "governance-solid",
+    "module_id": "governance",
+    "name": "固体废物与清洁生产",
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p13",
+      "books/867-chushi-notes/candidates/principles.md#p14",
+      "books/867-chushi-notes/candidates/principles.md#p25"
+    ]
+  },
+  {
+    "topic_id": "governance-monitoring",
+    "module_id": "governance",
+    "name": "监测、QA/QC 与环境评价",
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p21",
+      "books/867-chushi-notes/candidates/principles.md#p22"
+    ]
+  },
+  {
+    "topic_id": "governance-planning",
+    "module_id": "governance",
+    "name": "环评、标准与环境规划",
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p23",
+      "books/867-chushi-notes/candidates/principles.md#p24"
+    ]
+  },
+  {
+    "topic_id": "governance-policy",
+    "module_id": "governance",
+    "name": "环境制度与经济手段",
+    "source_refs": [
+      "books/867-chushi-notes/candidates/glossary.md#201"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "schema_version": "2.0",
+  "canonical_question_count": 136,
+  "paper_question_count": 131,
+  "subquestion_record_count": 8,
+  "relation_count": 170,
+  "relation_subquestion_count": 13,
+  "evidence_level_relation_count": {
+    "question_confirmed": 89,
+    "inferred": 2,
+    "answer_confirmed": 35,
+    "topic_confirmed": 44
+  },
+  "legacy_question_count": 111,
+  "active_concept_count": 39,
+  "bridge_concept_count": 1,
+  "evidence_weights": {
+    "question_confirmed": 1.0,
+    "topic_confirmed": 0.75,
+    "answer_confirmed": 0.6,
+    "inferred": 0.35
+  },
+  "source_files": {
+    "questions": "真题/analysis/questions.jsonl",
+    "historical": "真题/analysis/historical_questions.jsonl"
+  }
+}

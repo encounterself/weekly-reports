@@ -25,3 +25,27 @@ python3 study-assistant-skills/exam-analysis/scripts/analyze_exam.py \
 ## 统计边界
 
 当前纳入 2012—2025 年资料。2013—2023 的部分记录是根据参考答案核对出的考查主题，不保证逐字复原原题，具体见 `question_fidelity` 和 `source-inventory.md`。
+
+## V2 细粒度分析
+
+V2 是新增的、可重复生成的细粒度数据层，不覆盖上述旧版文件：
+
+- `course-tree-v2.json`：`module → topic → concept` 课程树。
+- `concepts-v2.json`、`legacy-compatibility-v2.json`：细粒度 concept 与 `v01`—`v10` 兼容关系。
+- `question-concepts-v2.jsonl`、`evidence-v2.jsonl`：题目关系、父子题和证据等级。
+- `exam-stats-v2.json`、`exam-frequency-v2.csv`：纸面题/子问/年份/题型/分值及证据加权统计。
+- `exam-topic-analysis-v2.md`、`exam-trends-v2.md`、`priority-summary-v2.md`、`must-memorize-v2.md`：细粒度分析、趋势和 Top 10/Top 20 优先级。
+- `top20-audit-v2.md`：`v02`、`v05`、`v09`、`v10` 高影响归因审查及待人工复核项。
+
+重新生成和校验：
+
+```bash
+python3 study-assistant-skills/exam-analysis/scripts/build_exam_v2.py \
+  --questions 真题/analysis/questions.jsonl \
+  --historical 真题/analysis/historical_questions.jsonl \
+  --out 真题/analysis
+
+python3 study-assistant-skills/exam-analysis/scripts/validate_exam_v2.py \
+  --analysis 真题/analysis \
+  --questions 真题/analysis/questions.jsonl
+```

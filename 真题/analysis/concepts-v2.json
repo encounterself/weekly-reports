@@ -1,0 +1,538 @@
+[
+  {
+    "concept_id": "f01",
+    "name": "环境容量",
+    "topic_id": "foundation-capacity",
+    "module_id": "foundation",
+    "legacy_concept_ids": [
+      "v01"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/glossary.md#g03"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "f02",
+    "name": "环境自净",
+    "topic_id": "foundation-capacity",
+    "module_id": "foundation",
+    "legacy_concept_ids": [
+      "v01"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/glossary.md#g04"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "f03",
+    "name": "环境污染判定",
+    "topic_id": "foundation-capacity",
+    "module_id": "foundation",
+    "legacy_concept_ids": [
+      "v01"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/glossary.md#g02"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "f04",
+    "name": "污染物迁移与暴露路径",
+    "topic_id": "foundation-process",
+    "module_id": "foundation",
+    "legacy_concept_ids": [
+      "v02"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p02"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "f05",
+    "name": "环境科学与环境系统",
+    "topic_id": "foundation-science",
+    "module_id": "foundation",
+    "legacy_concept_ids": [
+      "v01",
+      "v10"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/BOOK_OVERVIEW.md#27"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "w01",
+    "name": "水质指标（BOD/COD/TOC/TOD/pH）",
+    "topic_id": "water-quality",
+    "module_id": "water",
+    "legacy_concept_ids": [
+      "v01",
+      "v02",
+      "v03"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/glossary.md#g05"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "w02",
+    "name": "活性污泥法",
+    "topic_id": "water-treatment",
+    "module_id": "water",
+    "legacy_concept_ids": [
+      "v02"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p06"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "w03",
+    "name": "生物膜法",
+    "topic_id": "water-treatment",
+    "module_id": "water",
+    "legacy_concept_ids": [
+      "v02"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p08"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "w04",
+    "name": "厌氧与 UASB 生物处理",
+    "topic_id": "water-treatment",
+    "module_id": "water",
+    "legacy_concept_ids": [
+      "v02"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p06"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "w05",
+    "name": "沉淀",
+    "topic_id": "water-treatment",
+    "module_id": "water",
+    "legacy_concept_ids": [
+      "v02"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p08"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "w06",
+    "name": "混凝",
+    "topic_id": "water-treatment",
+    "module_id": "water",
+    "legacy_concept_ids": [
+      "v02"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p08"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "w07",
+    "name": "A²/O 与生物脱氮除磷",
+    "topic_id": "water-treatment",
+    "module_id": "water",
+    "legacy_concept_ids": [
+      "v02",
+      "v03"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p06"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "w09",
+    "name": "膜分离与反渗透",
+    "topic_id": "water-separation",
+    "module_id": "water",
+    "legacy_concept_ids": [
+      "v02"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p08"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "w10",
+    "name": "人工湿地与自然处理",
+    "topic_id": "water-nature",
+    "module_id": "water",
+    "legacy_concept_ids": [
+      "v02"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p06"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "w11",
+    "name": "吸附与离子交换",
+    "topic_id": "water-separation",
+    "module_id": "water",
+    "legacy_concept_ids": [
+      "v02"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/glossary.md#g03"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "w08",
+    "name": "富营养化与氮磷负荷",
+    "topic_id": "water-ecology",
+    "module_id": "water",
+    "legacy_concept_ids": [
+      "v03"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p05"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "a01",
+    "name": "酸雨",
+    "topic_id": "air-events",
+    "module_id": "air",
+    "legacy_concept_ids": [
+      "v04"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p09"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "a02",
+    "name": "光化学烟雾",
+    "topic_id": "air-events",
+    "module_id": "air",
+    "legacy_concept_ids": [
+      "v04"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p10"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "a03",
+    "name": "大气扩散与气象条件",
+    "topic_id": "air-events",
+    "module_id": "air",
+    "legacy_concept_ids": [
+      "v04"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p09"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "a04",
+    "name": "烟气脱硫与除尘",
+    "topic_id": "air-control",
+    "module_id": "air",
+    "legacy_concept_ids": [
+      "v04"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p09"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "a05",
+    "name": "臭氧层与全球气候风险",
+    "topic_id": "air-events",
+    "module_id": "air",
+    "legacy_concept_ids": [
+      "v04",
+      "v10"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/BOOK_OVERVIEW.md#27"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "a06",
+    "name": "噪声污染",
+    "topic_id": "air-control",
+    "module_id": "air",
+    "legacy_concept_ids": [
+      "v04"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p15"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "s01",
+    "name": "土壤重金属形态与迁移",
+    "topic_id": "soil-risk",
+    "module_id": "soil_agriculture",
+    "legacy_concept_ids": [
+      "v02",
+      "v05"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p12"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "s02",
+    "name": "土壤背景值",
+    "topic_id": "soil-risk",
+    "module_id": "soil_agriculture",
+    "legacy_concept_ids": [
+      "v01",
+      "v05"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/glossary.md#g03"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "s03",
+    "name": "土壤污染修复与安全利用",
+    "topic_id": "soil-remediation",
+    "module_id": "soil_agriculture",
+    "legacy_concept_ids": [
+      "v05"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p11"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "s04",
+    "name": "生物有效性与食物链风险",
+    "topic_id": "soil-risk",
+    "module_id": "soil_agriculture",
+    "legacy_concept_ids": [
+      "v05",
+      "v07",
+      "v08"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p12"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "g01",
+    "name": "农药迁移、残留与风险控制",
+    "topic_id": "agriculture-ecology",
+    "module_id": "soil_agriculture",
+    "legacy_concept_ids": [
+      "v02",
+      "v07"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p16"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "g02",
+    "name": "农业污染与畜禽粪污消纳",
+    "topic_id": "agriculture-ecology",
+    "module_id": "soil_agriculture",
+    "legacy_concept_ids": [
+      "v08"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p17"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "g03",
+    "name": "生态农业、循环与生物多样性",
+    "topic_id": "agriculture-ecology",
+    "module_id": "soil_agriculture",
+    "legacy_concept_ids": [
+      "v07",
+      "v08"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p20"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "r01",
+    "name": "危险固体废物鉴别",
+    "topic_id": "governance-solid",
+    "module_id": "governance",
+    "legacy_concept_ids": [
+      "v06"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p14"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "r02",
+    "name": "固废焚烧、填埋与渗滤液",
+    "topic_id": "governance-solid",
+    "module_id": "governance",
+    "legacy_concept_ids": [
+      "v06"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p13"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "r03",
+    "name": "清洁生产、源头减量与 3R",
+    "topic_id": "governance-solid",
+    "module_id": "governance",
+    "legacy_concept_ids": [
+      "v06"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p13"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "m01",
+    "name": "环境监测设计与采样",
+    "topic_id": "governance-monitoring",
+    "module_id": "governance",
+    "legacy_concept_ids": [
+      "v09"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p21"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "m02",
+    "name": "监测 QA/QC 与有效数据",
+    "topic_id": "governance-monitoring",
+    "module_id": "governance",
+    "legacy_concept_ids": [
+      "v09"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p22"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "m03",
+    "name": "环境质量评价与监测指标",
+    "topic_id": "governance-monitoring",
+    "module_id": "governance",
+    "legacy_concept_ids": [
+      "v09",
+      "v10"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p21"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "e01",
+    "name": "环境标准与基准",
+    "topic_id": "governance-planning",
+    "module_id": "governance",
+    "legacy_concept_ids": [
+      "v09",
+      "v10"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/glossary.md#g03"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "e02",
+    "name": "环境影响评价",
+    "topic_id": "governance-planning",
+    "module_id": "governance",
+    "legacy_concept_ids": [
+      "v10"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p23"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "e03",
+    "name": "环境规划与方案决策",
+    "topic_id": "governance-planning",
+    "module_id": "governance",
+    "legacy_concept_ids": [
+      "v10"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p24"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "e04",
+    "name": "环境保护制度与经济手段",
+    "topic_id": "governance-policy",
+    "module_id": "governance",
+    "legacy_concept_ids": [
+      "v10"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/glossary.md#201"
+    ],
+    "status": "active"
+  },
+  {
+    "concept_id": "x01",
+    "name": "跨介质迁移兼容桥接（待细分）",
+    "topic_id": "foundation-process",
+    "module_id": "foundation",
+    "legacy_concept_ids": [
+      "v02",
+      "v05",
+      "v09",
+      "v10"
+    ],
+    "source_refs": [
+      "books/867-chushi-notes/candidates/principles.md#p02"
+    ],
+    "status": "bridge"
+  }
+]

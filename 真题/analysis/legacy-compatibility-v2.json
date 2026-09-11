@@ -1,0 +1,428 @@
+[
+  {
+    "legacy_concept_id": "v01",
+    "legacy_source": "真题/analysis/concepts.json",
+    "v2_concept_ids": [
+      "f01",
+      "f02",
+      "f03",
+      "f05",
+      "w01",
+      "s02"
+    ],
+    "children": [
+      {
+        "concept_id": "f01",
+        "name": "环境容量",
+        "status": "active"
+      },
+      {
+        "concept_id": "f02",
+        "name": "环境自净",
+        "status": "active"
+      },
+      {
+        "concept_id": "f03",
+        "name": "环境污染判定",
+        "status": "active"
+      },
+      {
+        "concept_id": "f05",
+        "name": "环境科学与环境系统",
+        "status": "active"
+      },
+      {
+        "concept_id": "w01",
+        "name": "水质指标（BOD/COD/TOC/TOD/pH）",
+        "status": "active"
+      },
+      {
+        "concept_id": "s02",
+        "name": "土壤背景值",
+        "status": "active"
+      }
+    ],
+    "compatibility_note": "旧节点保留用于回溯；V2 统计使用其细粒度子节点。"
+  },
+  {
+    "legacy_concept_id": "v02",
+    "legacy_source": "真题/analysis/concepts.json",
+    "v2_concept_ids": [
+      "f04",
+      "w01",
+      "w02",
+      "w03",
+      "w04",
+      "w05",
+      "w06",
+      "w07",
+      "w09",
+      "w10",
+      "w11",
+      "s01",
+      "g01",
+      "x01"
+    ],
+    "children": [
+      {
+        "concept_id": "f04",
+        "name": "污染物迁移与暴露路径",
+        "status": "active"
+      },
+      {
+        "concept_id": "w01",
+        "name": "水质指标（BOD/COD/TOC/TOD/pH）",
+        "status": "active"
+      },
+      {
+        "concept_id": "w02",
+        "name": "活性污泥法",
+        "status": "active"
+      },
+      {
+        "concept_id": "w03",
+        "name": "生物膜法",
+        "status": "active"
+      },
+      {
+        "concept_id": "w04",
+        "name": "厌氧与 UASB 生物处理",
+        "status": "active"
+      },
+      {
+        "concept_id": "w05",
+        "name": "沉淀",
+        "status": "active"
+      },
+      {
+        "concept_id": "w06",
+        "name": "混凝",
+        "status": "active"
+      },
+      {
+        "concept_id": "w07",
+        "name": "A²/O 与生物脱氮除磷",
+        "status": "active"
+      },
+      {
+        "concept_id": "w09",
+        "name": "膜分离与反渗透",
+        "status": "active"
+      },
+      {
+        "concept_id": "w10",
+        "name": "人工湿地与自然处理",
+        "status": "active"
+      },
+      {
+        "concept_id": "w11",
+        "name": "吸附与离子交换",
+        "status": "active"
+      },
+      {
+        "concept_id": "s01",
+        "name": "土壤重金属形态与迁移",
+        "status": "active"
+      },
+      {
+        "concept_id": "g01",
+        "name": "农药迁移、残留与风险控制",
+        "status": "active"
+      },
+      {
+        "concept_id": "x01",
+        "name": "跨介质迁移兼容桥接（待细分）",
+        "status": "bridge"
+      }
+    ],
+    "compatibility_note": "旧节点保留用于回溯；V2 统计使用其细粒度子节点。"
+  },
+  {
+    "legacy_concept_id": "v03",
+    "legacy_source": "真题/analysis/concepts.json",
+    "v2_concept_ids": [
+      "w01",
+      "w07",
+      "w08"
+    ],
+    "children": [
+      {
+        "concept_id": "w01",
+        "name": "水质指标（BOD/COD/TOC/TOD/pH）",
+        "status": "active"
+      },
+      {
+        "concept_id": "w07",
+        "name": "A²/O 与生物脱氮除磷",
+        "status": "active"
+      },
+      {
+        "concept_id": "w08",
+        "name": "富营养化与氮磷负荷",
+        "status": "active"
+      }
+    ],
+    "compatibility_note": "旧节点保留用于回溯；V2 统计使用其细粒度子节点。"
+  },
+  {
+    "legacy_concept_id": "v04",
+    "legacy_source": "真题/analysis/concepts.json",
+    "v2_concept_ids": [
+      "a01",
+      "a02",
+      "a03",
+      "a04",
+      "a05",
+      "a06"
+    ],
+    "children": [
+      {
+        "concept_id": "a01",
+        "name": "酸雨",
+        "status": "active"
+      },
+      {
+        "concept_id": "a02",
+        "name": "光化学烟雾",
+        "status": "active"
+      },
+      {
+        "concept_id": "a03",
+        "name": "大气扩散与气象条件",
+        "status": "active"
+      },
+      {
+        "concept_id": "a04",
+        "name": "烟气脱硫与除尘",
+        "status": "active"
+      },
+      {
+        "concept_id": "a05",
+        "name": "臭氧层与全球气候风险",
+        "status": "active"
+      },
+      {
+        "concept_id": "a06",
+        "name": "噪声污染",
+        "status": "active"
+      }
+    ],
+    "compatibility_note": "旧节点保留用于回溯；V2 统计使用其细粒度子节点。"
+  },
+  {
+    "legacy_concept_id": "v05",
+    "legacy_source": "真题/analysis/concepts.json",
+    "v2_concept_ids": [
+      "s01",
+      "s02",
+      "s03",
+      "s04",
+      "x01"
+    ],
+    "children": [
+      {
+        "concept_id": "s01",
+        "name": "土壤重金属形态与迁移",
+        "status": "active"
+      },
+      {
+        "concept_id": "s02",
+        "name": "土壤背景值",
+        "status": "active"
+      },
+      {
+        "concept_id": "s03",
+        "name": "土壤污染修复与安全利用",
+        "status": "active"
+      },
+      {
+        "concept_id": "s04",
+        "name": "生物有效性与食物链风险",
+        "status": "active"
+      },
+      {
+        "concept_id": "x01",
+        "name": "跨介质迁移兼容桥接（待细分）",
+        "status": "bridge"
+      }
+    ],
+    "compatibility_note": "旧节点保留用于回溯；V2 统计使用其细粒度子节点。"
+  },
+  {
+    "legacy_concept_id": "v06",
+    "legacy_source": "真题/analysis/concepts.json",
+    "v2_concept_ids": [
+      "r01",
+      "r02",
+      "r03"
+    ],
+    "children": [
+      {
+        "concept_id": "r01",
+        "name": "危险固体废物鉴别",
+        "status": "active"
+      },
+      {
+        "concept_id": "r02",
+        "name": "固废焚烧、填埋与渗滤液",
+        "status": "active"
+      },
+      {
+        "concept_id": "r03",
+        "name": "清洁生产、源头减量与 3R",
+        "status": "active"
+      }
+    ],
+    "compatibility_note": "旧节点保留用于回溯；V2 统计使用其细粒度子节点。"
+  },
+  {
+    "legacy_concept_id": "v07",
+    "legacy_source": "真题/analysis/concepts.json",
+    "v2_concept_ids": [
+      "s04",
+      "g01",
+      "g03"
+    ],
+    "children": [
+      {
+        "concept_id": "s04",
+        "name": "生物有效性与食物链风险",
+        "status": "active"
+      },
+      {
+        "concept_id": "g01",
+        "name": "农药迁移、残留与风险控制",
+        "status": "active"
+      },
+      {
+        "concept_id": "g03",
+        "name": "生态农业、循环与生物多样性",
+        "status": "active"
+      }
+    ],
+    "compatibility_note": "旧节点保留用于回溯；V2 统计使用其细粒度子节点。"
+  },
+  {
+    "legacy_concept_id": "v08",
+    "legacy_source": "真题/analysis/concepts.json",
+    "v2_concept_ids": [
+      "s04",
+      "g02",
+      "g03"
+    ],
+    "children": [
+      {
+        "concept_id": "s04",
+        "name": "生物有效性与食物链风险",
+        "status": "active"
+      },
+      {
+        "concept_id": "g02",
+        "name": "农业污染与畜禽粪污消纳",
+        "status": "active"
+      },
+      {
+        "concept_id": "g03",
+        "name": "生态农业、循环与生物多样性",
+        "status": "active"
+      }
+    ],
+    "compatibility_note": "旧节点保留用于回溯；V2 统计使用其细粒度子节点。"
+  },
+  {
+    "legacy_concept_id": "v09",
+    "legacy_source": "真题/analysis/concepts.json",
+    "v2_concept_ids": [
+      "m01",
+      "m02",
+      "m03",
+      "e01",
+      "x01"
+    ],
+    "children": [
+      {
+        "concept_id": "m01",
+        "name": "环境监测设计与采样",
+        "status": "active"
+      },
+      {
+        "concept_id": "m02",
+        "name": "监测 QA/QC 与有效数据",
+        "status": "active"
+      },
+      {
+        "concept_id": "m03",
+        "name": "环境质量评价与监测指标",
+        "status": "active"
+      },
+      {
+        "concept_id": "e01",
+        "name": "环境标准与基准",
+        "status": "active"
+      },
+      {
+        "concept_id": "x01",
+        "name": "跨介质迁移兼容桥接（待细分）",
+        "status": "bridge"
+      }
+    ],
+    "compatibility_note": "旧节点保留用于回溯；V2 统计使用其细粒度子节点。"
+  },
+  {
+    "legacy_concept_id": "v10",
+    "legacy_source": "真题/analysis/concepts.json",
+    "v2_concept_ids": [
+      "f05",
+      "a05",
+      "m03",
+      "e01",
+      "e02",
+      "e03",
+      "e04",
+      "x01"
+    ],
+    "children": [
+      {
+        "concept_id": "f05",
+        "name": "环境科学与环境系统",
+        "status": "active"
+      },
+      {
+        "concept_id": "a05",
+        "name": "臭氧层与全球气候风险",
+        "status": "active"
+      },
+      {
+        "concept_id": "m03",
+        "name": "环境质量评价与监测指标",
+        "status": "active"
+      },
+      {
+        "concept_id": "e01",
+        "name": "环境标准与基准",
+        "status": "active"
+      },
+      {
+        "concept_id": "e02",
+        "name": "环境影响评价",
+        "status": "active"
+      },
+      {
+        "concept_id": "e03",
+        "name": "环境规划与方案决策",
+        "status": "active"
+      },
+      {
+        "concept_id": "e04",
+        "name": "环境保护制度与经济手段",
+        "status": "active"
+      },
+      {
+        "concept_id": "x01",
+        "name": "跨介质迁移兼容桥接（待细分）",
+        "status": "bridge"
+      }
+    ],
+    "compatibility_note": "旧节点保留用于回溯；V2 统计使用其细粒度子节点。"
+  }
+]
