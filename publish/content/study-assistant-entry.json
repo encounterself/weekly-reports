@@ -1,0 +1,683 @@
+{
+  "version": "1.0",
+  "entry_flow": [
+    "priority_rank",
+    "learning_unit",
+    "study-teach",
+    "study-quiz",
+    "study-feynman",
+    "mastery"
+  ],
+  "units": [
+    {
+      "learning_unit_id": "lu-m03",
+      "priority_rank": 1,
+      "name": "环境质量评价与监测指标",
+      "question_ids": [
+        "2025-SA-05",
+        "2025-SA-01",
+        "2025-CA-02-3",
+        "2025-CA-02-2",
+        "2025-CA-01-2",
+        "2024-CA-01-2",
+        "2022-SA-04",
+        "2021-SA-07",
+        "2020-SA-03",
+        "2020-N-02",
+        "2017-CA-01",
+        "2014-N-02",
+        "2012-SA-02"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-s01",
+      "priority_rank": 2,
+      "name": "土壤重金属形态与迁移",
+      "question_ids": [
+        "2025-SA-06",
+        "2025-S-03",
+        "2025-J-02",
+        "2025-CA-02-1",
+        "2024-SA-02",
+        "2024-S-02",
+        "2024-S-01",
+        "2024-J-01",
+        "2024-CA-01-2",
+        "2024-CA-01-1",
+        "2023-J-01",
+        "2019-CA-01",
+        "2015-SA-01",
+        "2014-SA-04",
+        "2012-SA-05"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-g03",
+      "priority_rank": 3,
+      "name": "生态农业、循环与生物多样性",
+      "question_ids": [
+        "2025-SA-02",
+        "2024-SA-01",
+        "2023-L-02",
+        "2022-SA-07",
+        "2019-N-01",
+        "2013-SA-01",
+        "2012-N-05"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-e03",
+      "priority_rank": 4,
+      "name": "环境规划与方案决策",
+      "question_ids": [
+        "2025-SA-05",
+        "2023-CA-01",
+        "2018-N-02",
+        "2017-N-02",
+        "2017-CA-01",
+        "2015-CA-02",
+        "2013-N-05",
+        "2012-N-02"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w02",
+      "priority_rank": 5,
+      "name": "活性污泥法",
+      "question_ids": [
+        "2025-SA-03",
+        "2025-S-01",
+        "2025-CA-01-1",
+        "2024-SA-03",
+        "2024-J-03",
+        "2022-L-01",
+        "2013-N-03"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w08",
+      "priority_rank": 6,
+      "name": "富营养化与氮磷负荷",
+      "question_ids": [
+        "2025-J-06",
+        "2024-S-06",
+        "2023-L-01",
+        "2022-SA-07",
+        "2018-SA-02",
+        "2012-SA-04"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-s04",
+      "priority_rank": 7,
+      "name": "生物有效性与食物链风险",
+      "question_ids": [
+        "2025-S-02",
+        "2025-CA-02-1",
+        "2021-SA-06",
+        "2021-L-02",
+        "2020-N-02",
+        "2019-SA-01",
+        "2012-N-04"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-r02",
+      "priority_rank": 8,
+      "name": "固废焚烧、填埋与渗滤液",
+      "question_ids": [
+        "2025-S-05",
+        "2025-J-05",
+        "2024-S-10",
+        "2024-J-04",
+        "2021-CA-01",
+        "2020-L-02"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-f04",
+      "priority_rank": 9,
+      "name": "污染物迁移与暴露路径",
+      "question_ids": [
+        "2025-SA-06",
+        "2019-CA-01",
+        "2016-SA-02",
+        "2016-N-01",
+        "2015-SA-01",
+        "2014-SA-04",
+        "2014-N-01",
+        "2012-SA-05"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-r03",
+      "priority_rank": 10,
+      "name": "清洁生产、源头减量与 3R",
+      "question_ids": [
+        "2022-SA-03",
+        "2020-N-03",
+        "2017-SA-01",
+        "2015-L-01",
+        "2013-N-01",
+        "2012-SA-01",
+        "2012-L-01"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-a04",
+      "priority_rank": 11,
+      "name": "烟气脱硫与除尘",
+      "question_ids": [
+        "2024-S-09",
+        "2024-J-05",
+        "2024-J-02",
+        "2022-SA-05",
+        "2014-N-05",
+        "2013-SA-03"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-f03",
+      "priority_rank": 12,
+      "name": "环境污染判定",
+      "question_ids": [
+        "2024-S-03",
+        "2023-J-01",
+        "2019-SA-01",
+        "2012-L-01",
+        "2012-J-02"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-g01",
+      "priority_rank": 13,
+      "name": "农药迁移、残留与风险控制",
+      "question_ids": [
+        "2025-SA-06",
+        "2024-SA-01",
+        "2023-L-02",
+        "2016-SA-02"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-e01",
+      "priority_rank": 14,
+      "name": "环境标准与基准",
+      "question_ids": [
+        "2025-J-01",
+        "2025-CA-01-2",
+        "2021-SA-01",
+        "2012-N-01"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w07",
+      "priority_rank": 15,
+      "name": "A²/O 与生物脱氮除磷",
+      "question_ids": [
+        "2025-CA-01-3",
+        "2022-L-01",
+        "2021-SA-05"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w01",
+      "priority_rank": 16,
+      "name": "水质指标（BOD/COD/TOC/TOD/pH）",
+      "question_ids": [
+        "2025-S-07",
+        "2025-J-03",
+        "2019-N-01",
+        "2018-N-01",
+        "2017-N-01"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-a02",
+      "priority_rank": 17,
+      "name": "光化学烟雾",
+      "question_ids": [
+        "2020-SA-02",
+        "2018-SA-01",
+        "2017-N-02",
+        "2016-SA-01",
+        "2016-N-03"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-a05",
+      "priority_rank": 18,
+      "name": "臭氧层与全球气候风险",
+      "question_ids": [
+        "2024-S-07",
+        "2023-CA-02",
+        "2021-SA-03"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-a01",
+      "priority_rank": 19,
+      "name": "酸雨",
+      "question_ids": [
+        "2022-SA-06",
+        "2016-SA-01",
+        "2014-SA-01",
+        "2012-J-01"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-s03",
+      "priority_rank": 20,
+      "name": "土壤污染修复与安全利用",
+      "question_ids": [
+        "2025-CA-02-3",
+        "2020-SA-04",
+        "2012-N-03"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w03",
+      "priority_rank": 21,
+      "name": "生物膜法",
+      "question_ids": [
+        "2025-SA-03",
+        "2024-SA-03",
+        "2019-N-02"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-r01",
+      "priority_rank": 22,
+      "name": "危险固体废物鉴别",
+      "question_ids": [
+        "2025-J-04",
+        "2024-SA-04",
+        "2013-N-02"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-a06",
+      "priority_rank": 23,
+      "name": "噪声污染",
+      "question_ids": [
+        "2020-N-01",
+        "2016-N-01",
+        "2014-SA-03",
+        "2012-J-03"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-m01",
+      "priority_rank": 24,
+      "name": "环境监测设计与采样",
+      "question_ids": [
+        "2025-CA-02-2",
+        "2022-SA-04"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-f01",
+      "priority_rank": 25,
+      "name": "环境容量",
+      "question_ids": [
+        "2021-SA-02",
+        "2020-N-01",
+        "2018-N-01"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-m02",
+      "priority_rank": 26,
+      "name": "监测 QA/QC 与有效数据",
+      "question_ids": [
+        "2025-SA-01",
+        "2021-SA-07"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w06",
+      "priority_rank": 27,
+      "name": "混凝",
+      "question_ids": [
+        "2024-S-05",
+        "2022-SA-01"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-a03",
+      "priority_rank": 28,
+      "name": "大气扩散与气象条件",
+      "question_ids": [
+        "2024-SA-05",
+        "2014-SA-02"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-e02",
+      "priority_rank": 29,
+      "name": "环境影响评价",
+      "question_ids": [
+        "2018-N-02",
+        "2016-N-02",
+        "2013-N-04"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w05",
+      "priority_rank": 30,
+      "name": "沉淀",
+      "question_ids": [
+        "2025-SA-04",
+        "2025-S-06"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-e04",
+      "priority_rank": 31,
+      "name": "环境保护制度与经济手段",
+      "question_ids": [
+        "2017-N-03",
+        "2013-SA-02"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w04",
+      "priority_rank": 32,
+      "name": "厌氧与 UASB 生物处理",
+      "question_ids": [
+        "2014-N-03",
+        "2012-SA-03"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-f02",
+      "priority_rank": 33,
+      "name": "环境自净",
+      "question_ids": [
+        "2022-SA-02"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-f05",
+      "priority_rank": 34,
+      "name": "环境科学与环境系统",
+      "question_ids": [
+        "2020-L-01"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w10",
+      "priority_rank": 35,
+      "name": "人工湿地与自然处理",
+      "question_ids": [
+        "2021-SA-04"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w11",
+      "priority_rank": 36,
+      "name": "吸附与离子交换",
+      "question_ids": [
+        "2024-S-04"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-s02",
+      "priority_rank": 37,
+      "name": "土壤背景值",
+      "question_ids": [
+        "2020-SA-01"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-g02",
+      "priority_rank": 38,
+      "name": "农业污染与畜禽粪污消纳",
+      "question_ids": [
+        "2016-SA-03"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w09",
+      "priority_rank": 39,
+      "name": "膜分离与反渗透",
+      "question_ids": [
+        "2014-N-04"
+      ],
+      "mastery": 0,
+      "next_actions": [
+        "study-teach",
+        "study-quiz",
+        "study-feynman"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": "learning-content-1.0",
+  "source": "../../../publish/content/study-assistant-entry.json",
+  "entry_flow": [
+    "priority_rank",
+    "learning_unit",
+    "study-teach",
+    "study-quiz",
+    "study-feynman",
+    "mastery"
+  ],
+  "legacy_knowledge_state": "internal/state/knowledge.json",
+  "note": "此入口不覆盖旧版十模块状态；学习单元的掌握度在 publish 内容模型中默认从 0 开始，后续由 study-assistant 更新。"
+}

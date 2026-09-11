@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "learning_units",
+    "core_top20"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "learning-content-1.0"
+    },
+    "learning_units": {
+      "type": "array"
+    },
+    "core_top20": {
+      "type": "array",
+      "maxItems": 20
+    }
+  }
+}

@@ -1,0 +1,2295 @@
+{
+  "schema_version": "exam-guide-1.0",
+  "title": "历年真题考点册",
+  "units": [
+    {
+      "learning_unit_id": "lu-m03",
+      "name": "环境质量评价与监测指标",
+      "statistics": {
+        "paper_count": 12,
+        "subquestion_count": 4,
+        "year_count": 8,
+        "recent_year_count": 4,
+        "subjective_count": 13,
+        "comprehensive_count": 5,
+        "total_score": "32",
+        "weighted_score": "28.4",
+        "core_score": "69.84",
+        "trend": "长期稳定高频",
+        "exam_years": [
+          2012,
+          2014,
+          2017,
+          2020,
+          2021,
+          2022,
+          2024,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=9; topic_confirmed=2; answer_confirmed=2"
+      },
+      "evidence_mix": "question_confirmed=9; topic_confirmed=2; answer_confirmed=2",
+      "question_ids": [
+        "2025-SA-05",
+        "2025-SA-01",
+        "2025-CA-02-3",
+        "2025-CA-02-2",
+        "2025-CA-01-2",
+        "2024-CA-01-2",
+        "2022-SA-04",
+        "2021-SA-07",
+        "2020-SA-03",
+        "2020-N-02",
+        "2017-CA-01",
+        "2014-N-02",
+        "2012-SA-02"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-SA-05",
+          "year": 2025,
+          "type": "简答题",
+          "text": "某区域建设项目地表水环境质量评价的原则和依据。"
+        },
+        {
+          "question_id": "2025-SA-01",
+          "year": 2025,
+          "type": "简答题",
+          "text": "环境监测质量控制。"
+        },
+        {
+          "question_id": "2025-CA-02-3",
+          "year": 2025,
+          "type": "案例分析",
+          "text": "镉污染土地的安全利用和修复技术。"
+        },
+        {
+          "question_id": "2025-CA-02-2",
+          "year": 2025,
+          "type": "案例分析",
+          "text": "镉污染监测评价的布点方法和评价依据。"
+        },
+        {
+          "question_id": "2025-CA-01-2",
+          "year": 2025,
+          "type": "案例分析",
+          "text": "我国污水评价所依据的标准和原则。"
+        },
+        {
+          "question_id": "2024-CA-01-2",
+          "year": 2024,
+          "type": "材料分析题",
+          "text": "矿山酸性废水导致重金属溶出及附近池塘、鱼类污染的机制和治理。"
+        },
+        {
+          "question_id": "2022-SA-04",
+          "year": 2022,
+          "type": "问答题",
+          "text": "环境监测基本原则"
+        },
+        {
+          "question_id": "2021-SA-07",
+          "year": 2021,
+          "type": "简答题",
+          "text": "环境监测质量保证与质量控制"
+        },
+        {
+          "question_id": "2020-SA-03",
+          "year": 2020,
+          "type": "简答题",
+          "text": "环境监测目的和基本程序"
+        },
+        {
+          "question_id": "2020-N-02",
+          "year": 2020,
+          "type": "名词解释",
+          "text": "生物多样性、生物监测、二次污染物"
+        },
+        {
+          "question_id": "2017-CA-01",
+          "year": 2017,
+          "type": "分析题",
+          "text": "环境质量评价、监测与治理方案分析"
+        },
+        {
+          "question_id": "2014-N-02",
+          "year": 2014,
+          "type": "名词解释",
+          "text": "环境监测"
+        },
+        {
+          "question_id": "2012-SA-02",
+          "year": 2012,
+          "type": "简答题",
+          "text": "环境监测的目的、分类和基本程序。"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-s01",
+      "name": "土壤重金属形态与迁移",
+      "statistics": {
+        "paper_count": 14,
+        "subquestion_count": 3,
+        "year_count": 7,
+        "recent_year_count": 3,
+        "subjective_count": 10,
+        "comprehensive_count": 4,
+        "total_score": "16",
+        "weighted_score": "12.0",
+        "core_score": "69.095",
+        "trend": "长期稳定高频",
+        "exam_years": [
+          2012,
+          2014,
+          2015,
+          2019,
+          2023,
+          2024,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=9; topic_confirmed=5; inferred=1"
+      },
+      "evidence_mix": "question_confirmed=9; topic_confirmed=5; inferred=1",
+      "question_ids": [
+        "2025-SA-06",
+        "2025-S-03",
+        "2025-J-02",
+        "2025-CA-02-1",
+        "2024-SA-02",
+        "2024-S-02",
+        "2024-S-01",
+        "2024-J-01",
+        "2024-CA-01-2",
+        "2024-CA-01-1",
+        "2023-J-01",
+        "2019-CA-01",
+        "2015-SA-01",
+        "2014-SA-04",
+        "2012-SA-05"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-SA-06",
+          "year": 2025,
+          "type": "简答题",
+          "text": "农药在土壤中的迁移转化途径。"
+        },
+        {
+          "question_id": "2025-S-03",
+          "year": 2025,
+          "type": "选择题",
+          "text": "砷在土壤和水环境中的形态、活性比较。"
+        },
+        {
+          "question_id": "2025-J-02",
+          "year": 2025,
+          "type": "判断题",
+          "text": "重金属是当今热点新兴污染物。"
+        },
+        {
+          "question_id": "2025-CA-02-1",
+          "year": 2025,
+          "type": "案例分析",
+          "text": "分析稻米中镉含量较高的原因。"
+        },
+        {
+          "question_id": "2024-SA-02",
+          "year": 2024,
+          "type": "简答题",
+          "text": "重金属形态辨别方法及形态研究的价值和意义。"
+        },
+        {
+          "question_id": "2024-S-02",
+          "year": 2024,
+          "type": "选择题",
+          "text": "水淹土壤导致元素含量变化。"
+        },
+        {
+          "question_id": "2024-S-01",
+          "year": 2024,
+          "type": "选择题",
+          "text": "骨痛病的污染物及致病原因。"
+        },
+        {
+          "question_id": "2024-J-01",
+          "year": 2024,
+          "type": "辨析题",
+          "text": "重金属进入土壤后只有少量进入食物。"
+        },
+        {
+          "question_id": "2024-CA-01-2",
+          "year": 2024,
+          "type": "材料分析题",
+          "text": "矿山酸性废水导致重金属溶出及附近池塘、鱼类污染的机制和治理。"
+        },
+        {
+          "question_id": "2024-CA-01-1",
+          "year": 2024,
+          "type": "材料分析题",
+          "text": "硫化物矿物氧化转化并形成矿山酸性废水的过程。"
+        },
+        {
+          "question_id": "2023-J-01",
+          "year": 2023,
+          "type": "判断题",
+          "text": "全球性污染物、重金属结合常数及环境污染判断相关说法"
+        },
+        {
+          "question_id": "2019-CA-01",
+          "year": 2019,
+          "type": "分析题",
+          "text": "镉在环境中的形态、络合与迁移"
+        },
+        {
+          "question_id": "2015-SA-01",
+          "year": 2015,
+          "type": "简答题",
+          "text": "植物对重金属迁移的影响"
+        },
+        {
+          "question_id": "2014-SA-04",
+          "year": 2014,
+          "type": "简答题",
+          "text": "土壤中重金属的迁移转化与形态"
+        },
+        {
+          "question_id": "2012-SA-05",
+          "year": 2012,
+          "type": "简答题",
+          "text": "土壤重金属的物理、物理化学和生物迁移及治理机理。"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-g03",
+      "name": "生态农业、循环与生物多样性",
+      "statistics": {
+        "paper_count": 7,
+        "subquestion_count": 0,
+        "year_count": 7,
+        "recent_year_count": 4,
+        "subjective_count": 7,
+        "comprehensive_count": 1,
+        "total_score": "46",
+        "weighted_score": "35.8",
+        "core_score": "38.27",
+        "trend": "长期稳定高频",
+        "exam_years": [
+          2012,
+          2013,
+          2019,
+          2022,
+          2023,
+          2024,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=3; topic_confirmed=2; answer_confirmed=2"
+      },
+      "evidence_mix": "question_confirmed=3; topic_confirmed=2; answer_confirmed=2",
+      "question_ids": [
+        "2025-SA-02",
+        "2024-SA-01",
+        "2023-L-02",
+        "2022-SA-07",
+        "2019-N-01",
+        "2013-SA-01",
+        "2012-N-05"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-SA-02",
+          "year": 2025,
+          "type": "简答题",
+          "text": "土壤氮元素循环和环境效益。"
+        },
+        {
+          "question_id": "2024-SA-01",
+          "year": 2024,
+          "type": "简答题",
+          "text": "农业污染的管理措施和解决途径。"
+        },
+        {
+          "question_id": "2023-L-02",
+          "year": 2023,
+          "type": "论述题",
+          "text": "农业污染综合防治与环境影响分析"
+        },
+        {
+          "question_id": "2022-SA-07",
+          "year": 2022,
+          "type": "问答题",
+          "text": "过量施用化肥对土壤和水环境的影响"
+        },
+        {
+          "question_id": "2019-N-01",
+          "year": 2019,
+          "type": "名词解释",
+          "text": "生态平衡、环境、BOD"
+        },
+        {
+          "question_id": "2013-SA-01",
+          "year": 2013,
+          "type": "简答题",
+          "text": "生态平衡破坏的衡量标志及影响因素"
+        },
+        {
+          "question_id": "2012-N-05",
+          "year": 2012,
+          "type": "名词解释",
+          "text": "有机农业与生态农业"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-e03",
+      "name": "环境规划与方案决策",
+      "statistics": {
+        "paper_count": 8,
+        "subquestion_count": 0,
+        "year_count": 7,
+        "recent_year_count": 2,
+        "subjective_count": 8,
+        "comprehensive_count": 3,
+        "total_score": "58",
+        "weighted_score": "44.1",
+        "core_score": "38.21",
+        "trend": "长期稳定但近期下降",
+        "exam_years": [
+          2012,
+          2013,
+          2015,
+          2017,
+          2018,
+          2023,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=2; topic_confirmed=2; answer_confirmed=4"
+      },
+      "evidence_mix": "question_confirmed=2; topic_confirmed=2; answer_confirmed=4",
+      "question_ids": [
+        "2025-SA-05",
+        "2023-CA-01",
+        "2018-N-02",
+        "2017-N-02",
+        "2017-CA-01",
+        "2015-CA-02",
+        "2013-N-05",
+        "2012-N-02"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-SA-05",
+          "year": 2025,
+          "type": "简答题",
+          "text": "某区域建设项目地表水环境质量评价的原则和依据。"
+        },
+        {
+          "question_id": "2023-CA-01",
+          "year": 2023,
+          "type": "案例分析",
+          "text": "环境工程工艺方案比较与最优方案选择"
+        },
+        {
+          "question_id": "2018-N-02",
+          "year": 2018,
+          "type": "名词解释",
+          "text": "环境影响评价、环境规划"
+        },
+        {
+          "question_id": "2017-N-02",
+          "year": 2017,
+          "type": "名词解释",
+          "text": "环境规划、光化学烟雾"
+        },
+        {
+          "question_id": "2017-CA-01",
+          "year": 2017,
+          "type": "分析题",
+          "text": "环境质量评价、监测与治理方案分析"
+        },
+        {
+          "question_id": "2015-CA-02",
+          "year": 2015,
+          "type": "案例分析",
+          "text": "污水处理厂厂址选择原则"
+        },
+        {
+          "question_id": "2013-N-05",
+          "year": 2013,
+          "type": "名词解释",
+          "text": "环境规划"
+        },
+        {
+          "question_id": "2012-N-02",
+          "year": 2012,
+          "type": "名词解释",
+          "text": "环境区划与环境规划"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w02",
+      "name": "活性污泥法",
+      "statistics": {
+        "paper_count": 7,
+        "subquestion_count": 1,
+        "year_count": 4,
+        "recent_year_count": 3,
+        "subjective_count": 6,
+        "comprehensive_count": 2,
+        "total_score": "23",
+        "weighted_score": "19.8",
+        "core_score": "36.66",
+        "trend": "近年升温",
+        "exam_years": [
+          2013,
+          2022,
+          2024,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=5; answer_confirmed=1; inferred=1"
+      },
+      "evidence_mix": "question_confirmed=5; answer_confirmed=1; inferred=1",
+      "question_ids": [
+        "2025-SA-03",
+        "2025-S-01",
+        "2025-CA-01-1",
+        "2024-SA-03",
+        "2024-J-03",
+        "2022-L-01",
+        "2013-N-03"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-SA-03",
+          "year": 2025,
+          "type": "简答题",
+          "text": "生物膜法的原理，与好氧活性污泥法的区别及各自优势。"
+        },
+        {
+          "question_id": "2025-S-01",
+          "year": 2025,
+          "type": "选择题",
+          "text": "污泥龄、MLSS 等污水处理运行参数的判断。"
+        },
+        {
+          "question_id": "2025-CA-01-1",
+          "year": 2025,
+          "type": "案例分析",
+          "text": "按推流方式划分曝气池类型，并判断氧化沟类型。"
+        },
+        {
+          "question_id": "2024-SA-03",
+          "year": 2024,
+          "type": "简答题",
+          "text": "生物膜法和活性污泥法的净化原理、区别及各自优势。"
+        },
+        {
+          "question_id": "2024-J-03",
+          "year": 2024,
+          "type": "辨析题",
+          "text": "污泥龄与 HRT 的含义及其对污水处理负荷和生物代谢的影响。"
+        },
+        {
+          "question_id": "2022-L-01",
+          "year": 2022,
+          "type": "分析论述题",
+          "text": "活性污泥工艺流程及生物脱氮除磷机制"
+        },
+        {
+          "question_id": "2013-N-03",
+          "year": 2013,
+          "type": "名词解释",
+          "text": "活性污泥法"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w08",
+      "name": "富营养化与氮磷负荷",
+      "statistics": {
+        "paper_count": 6,
+        "subquestion_count": 0,
+        "year_count": 6,
+        "recent_year_count": 4,
+        "subjective_count": 4,
+        "comprehensive_count": 1,
+        "total_score": "38",
+        "weighted_score": "36.0",
+        "core_score": "36.51",
+        "trend": "长期稳定高频",
+        "exam_years": [
+          2012,
+          2018,
+          2022,
+          2023,
+          2024,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=4; topic_confirmed=2"
+      },
+      "evidence_mix": "question_confirmed=4; topic_confirmed=2",
+      "question_ids": [
+        "2025-J-06",
+        "2024-S-06",
+        "2023-L-01",
+        "2022-SA-07",
+        "2018-SA-02",
+        "2012-SA-04"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-J-06",
+          "year": 2025,
+          "type": "判断题",
+          "text": "营养条件充足，水体一定会发生富营养化。"
+        },
+        {
+          "question_id": "2024-S-06",
+          "year": 2024,
+          "type": "选择题",
+          "text": "富营养化会产生或不会产生的结果。"
+        },
+        {
+          "question_id": "2023-L-01",
+          "year": 2023,
+          "type": "论述题",
+          "text": "湖泊鱼类死亡的原因判别：富营养化还是有毒有害物质"
+        },
+        {
+          "question_id": "2022-SA-07",
+          "year": 2022,
+          "type": "问答题",
+          "text": "过量施用化肥对土壤和水环境的影响"
+        },
+        {
+          "question_id": "2018-SA-02",
+          "year": 2018,
+          "type": "简答题",
+          "text": "富营养化成因、外源负荷与治理"
+        },
+        {
+          "question_id": "2012-SA-04",
+          "year": 2012,
+          "type": "简答题",
+          "text": "水体富营养化的形成条件。"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-s04",
+      "name": "生物有效性与食物链风险",
+      "statistics": {
+        "paper_count": 7,
+        "subquestion_count": 1,
+        "year_count": 5,
+        "recent_year_count": 2,
+        "subjective_count": 6,
+        "comprehensive_count": 2,
+        "total_score": "12",
+        "weighted_score": "7.2",
+        "core_score": "35.965",
+        "trend": "周期性",
+        "exam_years": [
+          2012,
+          2019,
+          2020,
+          2021,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=4; topic_confirmed=1; answer_confirmed=2"
+      },
+      "evidence_mix": "question_confirmed=4; topic_confirmed=1; answer_confirmed=2",
+      "question_ids": [
+        "2025-S-02",
+        "2025-CA-02-1",
+        "2021-SA-06",
+        "2021-L-02",
+        "2020-N-02",
+        "2019-SA-01",
+        "2012-N-04"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-S-02",
+          "year": 2025,
+          "type": "选择题",
+          "text": "八大公害事件中水俣病对应的污染物。"
+        },
+        {
+          "question_id": "2025-CA-02-1",
+          "year": 2025,
+          "type": "案例分析",
+          "text": "分析稻米中镉含量较高的原因。"
+        },
+        {
+          "question_id": "2021-SA-06",
+          "year": 2021,
+          "type": "简答题",
+          "text": "生物多样性保护途径和对策"
+        },
+        {
+          "question_id": "2021-L-02",
+          "year": 2021,
+          "type": "论述题",
+          "text": "土壤与水质、大气环境、作物品质和人体健康的关系"
+        },
+        {
+          "question_id": "2020-N-02",
+          "year": 2020,
+          "type": "名词解释",
+          "text": "生物多样性、生物监测、二次污染物"
+        },
+        {
+          "question_id": "2019-SA-01",
+          "year": 2019,
+          "type": "简答题",
+          "text": "环境污染对生物多样性的影响"
+        },
+        {
+          "question_id": "2012-N-04",
+          "year": 2012,
+          "type": "名词解释",
+          "text": "生物多样性与物种多样性"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-r02",
+      "name": "固废焚烧、填埋与渗滤液",
+      "statistics": {
+        "paper_count": 6,
+        "subquestion_count": 0,
+        "year_count": 4,
+        "recent_year_count": 3,
+        "subjective_count": 3,
+        "comprehensive_count": 2,
+        "total_score": "25",
+        "weighted_score": "25.0",
+        "core_score": "35.25",
+        "trend": "近年升温",
+        "exam_years": [
+          2020,
+          2021,
+          2024,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=6"
+      },
+      "evidence_mix": "question_confirmed=6",
+      "question_ids": [
+        "2025-S-05",
+        "2025-J-05",
+        "2024-S-10",
+        "2024-J-04",
+        "2021-CA-01",
+        "2020-L-02"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-S-05",
+          "year": 2025,
+          "type": "选择题",
+          "text": "城市固体废物处理中二噁英产生的环节。"
+        },
+        {
+          "question_id": "2025-J-05",
+          "year": 2025,
+          "type": "判断题",
+          "text": "固体废物处理的原则是焚烧和填埋。"
+        },
+        {
+          "question_id": "2024-S-10",
+          "year": 2024,
+          "type": "选择题",
+          "text": "焚烧四大影响因素 3T1E。"
+        },
+        {
+          "question_id": "2024-J-04",
+          "year": 2024,
+          "type": "辨析题",
+          "text": "老龄化生活垃圾填埋场渗滤液可以回灌填埋场。"
+        },
+        {
+          "question_id": "2021-CA-01",
+          "year": 2021,
+          "type": "分析题",
+          "text": "垃圾分类、有害垃圾和可回收垃圾及提高分类达标率"
+        },
+        {
+          "question_id": "2020-L-02",
+          "year": 2020,
+          "type": "论述题",
+          "text": "城市垃圾危害及全过程控制对策"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-f04",
+      "name": "污染物迁移与暴露路径",
+      "statistics": {
+        "paper_count": 8,
+        "subquestion_count": 0,
+        "year_count": 6,
+        "recent_year_count": 1,
+        "subjective_count": 8,
+        "comprehensive_count": 1,
+        "total_score": "8",
+        "weighted_score": "6.0",
+        "core_score": "34.585",
+        "trend": "长期稳定但近期下降",
+        "exam_years": [
+          2012,
+          2014,
+          2015,
+          2016,
+          2019,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=1; topic_confirmed=5; answer_confirmed=2"
+      },
+      "evidence_mix": "question_confirmed=1; topic_confirmed=5; answer_confirmed=2",
+      "question_ids": [
+        "2025-SA-06",
+        "2019-CA-01",
+        "2016-SA-02",
+        "2016-N-01",
+        "2015-SA-01",
+        "2014-SA-04",
+        "2014-N-01",
+        "2012-SA-05"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-SA-06",
+          "year": 2025,
+          "type": "简答题",
+          "text": "农药在土壤中的迁移转化途径。"
+        },
+        {
+          "question_id": "2019-CA-01",
+          "year": 2019,
+          "type": "分析题",
+          "text": "镉在环境中的形态、络合与迁移"
+        },
+        {
+          "question_id": "2016-SA-02",
+          "year": 2016,
+          "type": "简答题",
+          "text": "农业污染、农药迁移及环境风险"
+        },
+        {
+          "question_id": "2016-N-01",
+          "year": 2016,
+          "type": "名词解释",
+          "text": "生物污染、城市热岛效应"
+        },
+        {
+          "question_id": "2015-SA-01",
+          "year": 2015,
+          "type": "简答题",
+          "text": "植物对重金属迁移的影响"
+        },
+        {
+          "question_id": "2014-SA-04",
+          "year": 2014,
+          "type": "简答题",
+          "text": "土壤中重金属的迁移转化与形态"
+        },
+        {
+          "question_id": "2014-N-01",
+          "year": 2014,
+          "type": "名词解释",
+          "text": "持久性有机污染物 POPs"
+        },
+        {
+          "question_id": "2012-SA-05",
+          "year": 2012,
+          "type": "简答题",
+          "text": "土壤重金属的物理、物理化学和生物迁移及治理机理。"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-r03",
+      "name": "清洁生产、源头减量与 3R",
+      "statistics": {
+        "paper_count": 7,
+        "subquestion_count": 0,
+        "year_count": 6,
+        "recent_year_count": 1,
+        "subjective_count": 7,
+        "comprehensive_count": 2,
+        "total_score": "50",
+        "weighted_score": "38.2",
+        "core_score": "32.225",
+        "trend": "长期稳定但近期下降",
+        "exam_years": [
+          2012,
+          2013,
+          2015,
+          2017,
+          2020,
+          2022
+        ],
+        "evidence_mix": "question_confirmed=1; topic_confirmed=4; answer_confirmed=2"
+      },
+      "evidence_mix": "question_confirmed=1; topic_confirmed=4; answer_confirmed=2",
+      "question_ids": [
+        "2022-SA-03",
+        "2020-N-03",
+        "2017-SA-01",
+        "2015-L-01",
+        "2013-N-01",
+        "2012-SA-01",
+        "2012-L-01"
+      ],
+      "questions": [
+        {
+          "question_id": "2022-SA-03",
+          "year": 2022,
+          "type": "问答题",
+          "text": "固体废物源头减量方法"
+        },
+        {
+          "question_id": "2020-N-03",
+          "year": 2020,
+          "type": "名词解释",
+          "text": "绿色贸易壁垒"
+        },
+        {
+          "question_id": "2017-SA-01",
+          "year": 2017,
+          "type": "简答题",
+          "text": "废水重复利用与中水回用"
+        },
+        {
+          "question_id": "2015-L-01",
+          "year": 2015,
+          "type": "论述题",
+          "text": "清洁生产的内涵、原则与可持续发展关系"
+        },
+        {
+          "question_id": "2013-N-01",
+          "year": 2013,
+          "type": "名词解释",
+          "text": "清洁生产"
+        },
+        {
+          "question_id": "2012-SA-01",
+          "year": 2012,
+          "type": "简答题",
+          "text": "清洁生产的内涵、重点和实施方式。"
+        },
+        {
+          "question_id": "2012-L-01",
+          "year": 2012,
+          "type": "论述题",
+          "text": "资源约束、循环经济与环境污染治理。"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-a04",
+      "name": "烟气脱硫与除尘",
+      "statistics": {
+        "paper_count": 6,
+        "subquestion_count": 0,
+        "year_count": 4,
+        "recent_year_count": 2,
+        "subjective_count": 5,
+        "comprehensive_count": 0,
+        "total_score": "18",
+        "weighted_score": "16.0",
+        "core_score": "30.035",
+        "trend": "周期性",
+        "exam_years": [
+          2013,
+          2014,
+          2022,
+          2024
+        ],
+        "evidence_mix": "question_confirmed=4; topic_confirmed=1; answer_confirmed=1"
+      },
+      "evidence_mix": "question_confirmed=4; topic_confirmed=1; answer_confirmed=1",
+      "question_ids": [
+        "2024-S-09",
+        "2024-J-05",
+        "2024-J-02",
+        "2022-SA-05",
+        "2014-N-05",
+        "2013-SA-03"
+      ],
+      "questions": [
+        {
+          "question_id": "2024-S-09",
+          "year": 2024,
+          "type": "选择题",
+          "text": "静电除尘的主要机理和控制因素。"
+        },
+        {
+          "question_id": "2024-J-05",
+          "year": 2024,
+          "type": "辨析题",
+          "text": "发电燃烧厂干灰由袋式除尘器过滤，属于一般固体废物。"
+        },
+        {
+          "question_id": "2024-J-02",
+          "year": 2024,
+          "type": "辨析题",
+          "text": "粉尘属于气溶胶，雾属于气态污染物。"
+        },
+        {
+          "question_id": "2022-SA-05",
+          "year": 2022,
+          "type": "问答题",
+          "text": "湿法烟气脱硫原理与技术"
+        },
+        {
+          "question_id": "2014-N-05",
+          "year": 2014,
+          "type": "名词解释",
+          "text": "旋风除尘、热解与固体废物"
+        },
+        {
+          "question_id": "2013-SA-03",
+          "year": 2013,
+          "type": "简答题",
+          "text": "烟气脱硫技术及分类"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-f03",
+      "name": "环境污染判定",
+      "statistics": {
+        "paper_count": 5,
+        "subquestion_count": 0,
+        "year_count": 4,
+        "recent_year_count": 2,
+        "subjective_count": 2,
+        "comprehensive_count": 1,
+        "total_score": "38",
+        "weighted_score": "28.5",
+        "core_score": "24.385",
+        "trend": "周期性",
+        "exam_years": [
+          2012,
+          2019,
+          2023,
+          2024
+        ],
+        "evidence_mix": "question_confirmed=1; topic_confirmed=4"
+      },
+      "evidence_mix": "question_confirmed=1; topic_confirmed=4",
+      "question_ids": [
+        "2024-S-03",
+        "2023-J-01",
+        "2019-SA-01",
+        "2012-L-01",
+        "2012-J-02"
+      ],
+      "questions": [
+        {
+          "question_id": "2024-S-03",
+          "year": 2024,
+          "type": "选择题",
+          "text": "原生环境问题的判断。"
+        },
+        {
+          "question_id": "2023-J-01",
+          "year": 2023,
+          "type": "判断题",
+          "text": "全球性污染物、重金属结合常数及环境污染判断相关说法"
+        },
+        {
+          "question_id": "2019-SA-01",
+          "year": 2019,
+          "type": "简答题",
+          "text": "环境污染对生物多样性的影响"
+        },
+        {
+          "question_id": "2012-L-01",
+          "year": 2012,
+          "type": "论述题",
+          "text": "资源约束、循环经济与环境污染治理。"
+        },
+        {
+          "question_id": "2012-J-02",
+          "year": 2012,
+          "type": "判断题",
+          "text": "环境污染物的定义和情境条件。"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-g01",
+      "name": "农药迁移、残留与风险控制",
+      "statistics": {
+        "paper_count": 4,
+        "subquestion_count": 0,
+        "year_count": 4,
+        "recent_year_count": 3,
+        "subjective_count": 4,
+        "comprehensive_count": 1,
+        "total_score": "20",
+        "weighted_score": "15.0",
+        "core_score": "23.9",
+        "trend": "近年升温",
+        "exam_years": [
+          2016,
+          2023,
+          2024,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=2; topic_confirmed=2"
+      },
+      "evidence_mix": "question_confirmed=2; topic_confirmed=2",
+      "question_ids": [
+        "2025-SA-06",
+        "2024-SA-01",
+        "2023-L-02",
+        "2016-SA-02"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-SA-06",
+          "year": 2025,
+          "type": "简答题",
+          "text": "农药在土壤中的迁移转化途径。"
+        },
+        {
+          "question_id": "2024-SA-01",
+          "year": 2024,
+          "type": "简答题",
+          "text": "农业污染的管理措施和解决途径。"
+        },
+        {
+          "question_id": "2023-L-02",
+          "year": 2023,
+          "type": "论述题",
+          "text": "农业污染综合防治与环境影响分析"
+        },
+        {
+          "question_id": "2016-SA-02",
+          "year": 2016,
+          "type": "简答题",
+          "text": "农业污染、农药迁移及环境风险"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-e01",
+      "name": "环境标准与基准",
+      "statistics": {
+        "paper_count": 4,
+        "subquestion_count": 1,
+        "year_count": 3,
+        "recent_year_count": 2,
+        "subjective_count": 3,
+        "comprehensive_count": 1,
+        "total_score": "8",
+        "weighted_score": "4.8",
+        "core_score": "23.21",
+        "trend": "周期性",
+        "exam_years": [
+          2012,
+          2021,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=3; answer_confirmed=1"
+      },
+      "evidence_mix": "question_confirmed=3; answer_confirmed=1",
+      "question_ids": [
+        "2025-J-01",
+        "2025-CA-01-2",
+        "2021-SA-01",
+        "2012-N-01"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-J-01",
+          "year": 2025,
+          "type": "判断题",
+          "text": "国家环境标准比地方环境标准更严格。"
+        },
+        {
+          "question_id": "2025-CA-01-2",
+          "year": 2025,
+          "type": "案例分析",
+          "text": "我国污水评价所依据的标准和原则。"
+        },
+        {
+          "question_id": "2021-SA-01",
+          "year": 2021,
+          "type": "简答题",
+          "text": "我国环境标准体系及标准关系"
+        },
+        {
+          "question_id": "2012-N-01",
+          "year": 2012,
+          "type": "名词解释",
+          "text": "环境标准与环境基准"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w07",
+      "name": "A²/O 与生物脱氮除磷",
+      "statistics": {
+        "paper_count": 3,
+        "subquestion_count": 1,
+        "year_count": 3,
+        "recent_year_count": 3,
+        "subjective_count": 3,
+        "comprehensive_count": 2,
+        "total_score": "15",
+        "weighted_score": "15.0",
+        "core_score": "23.05",
+        "trend": "近年升温",
+        "exam_years": [
+          2021,
+          2022,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=3"
+      },
+      "evidence_mix": "question_confirmed=3",
+      "question_ids": [
+        "2025-CA-01-3",
+        "2022-L-01",
+        "2021-SA-05"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-CA-01-3",
+          "year": 2025,
+          "type": "案例分析",
+          "text": "A2/O 工艺的溶解氧控制条件及制约脱氮除磷的关键因子。"
+        },
+        {
+          "question_id": "2022-L-01",
+          "year": 2022,
+          "type": "分析论述题",
+          "text": "活性污泥工艺流程及生物脱氮除磷机制"
+        },
+        {
+          "question_id": "2021-SA-05",
+          "year": 2021,
+          "type": "简答题",
+          "text": "污水生物脱氮过程"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w01",
+      "name": "水质指标（BOD/COD/TOC/TOD/pH）",
+      "statistics": {
+        "paper_count": 5,
+        "subquestion_count": 0,
+        "year_count": 4,
+        "recent_year_count": 1,
+        "subjective_count": 3,
+        "comprehensive_count": 0,
+        "total_score": "",
+        "weighted_score": "0.0",
+        "core_score": "21.15",
+        "trend": "周期性",
+        "exam_years": [
+          2017,
+          2018,
+          2019,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=2; answer_confirmed=3"
+      },
+      "evidence_mix": "question_confirmed=2; answer_confirmed=3",
+      "question_ids": [
+        "2025-S-07",
+        "2025-J-03",
+        "2019-N-01",
+        "2018-N-01",
+        "2017-N-01"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-S-07",
+          "year": 2025,
+          "type": "选择题",
+          "text": "正常水体 pH 值范围。"
+        },
+        {
+          "question_id": "2025-J-03",
+          "year": 2025,
+          "type": "判断题",
+          "text": "污水当中一般 CODcr/BOD 的值大于 1。"
+        },
+        {
+          "question_id": "2019-N-01",
+          "year": 2019,
+          "type": "名词解释",
+          "text": "生态平衡、环境、BOD"
+        },
+        {
+          "question_id": "2018-N-01",
+          "year": 2018,
+          "type": "名词解释",
+          "text": "环境容量、COD"
+        },
+        {
+          "question_id": "2017-N-01",
+          "year": 2017,
+          "type": "名词解释",
+          "text": "环境、耗氧量"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-a02",
+      "name": "光化学烟雾",
+      "statistics": {
+        "paper_count": 5,
+        "subquestion_count": 0,
+        "year_count": 4,
+        "recent_year_count": 0,
+        "subjective_count": 5,
+        "comprehensive_count": 0,
+        "total_score": "10",
+        "weighted_score": "10.0",
+        "core_score": "20.9",
+        "trend": "多年未考",
+        "exam_years": [
+          2016,
+          2017,
+          2018,
+          2020
+        ],
+        "evidence_mix": "question_confirmed=1; topic_confirmed=2; answer_confirmed=2"
+      },
+      "evidence_mix": "question_confirmed=1; topic_confirmed=2; answer_confirmed=2",
+      "question_ids": [
+        "2020-SA-02",
+        "2018-SA-01",
+        "2017-N-02",
+        "2016-SA-01",
+        "2016-N-03"
+      ],
+      "questions": [
+        {
+          "question_id": "2020-SA-02",
+          "year": 2020,
+          "type": "简答题",
+          "text": "光化学污染及形成条件"
+        },
+        {
+          "question_id": "2018-SA-01",
+          "year": 2018,
+          "type": "简答题",
+          "text": "光化学烟雾形成机制与控制"
+        },
+        {
+          "question_id": "2017-N-02",
+          "year": 2017,
+          "type": "名词解释",
+          "text": "环境规划、光化学烟雾"
+        },
+        {
+          "question_id": "2016-SA-01",
+          "year": 2016,
+          "type": "简答题",
+          "text": "伦敦型烟雾与光化学烟雾的成因和条件"
+        },
+        {
+          "question_id": "2016-N-03",
+          "year": 2016,
+          "type": "名词解释",
+          "text": "光化学烟雾"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-a05",
+      "name": "臭氧层与全球气候风险",
+      "statistics": {
+        "paper_count": 3,
+        "subquestion_count": 0,
+        "year_count": 3,
+        "recent_year_count": 3,
+        "subjective_count": 2,
+        "comprehensive_count": 1,
+        "total_score": "18",
+        "weighted_score": "18.0",
+        "core_score": "20.86",
+        "trend": "近年升温",
+        "exam_years": [
+          2021,
+          2023,
+          2024
+        ],
+        "evidence_mix": "question_confirmed=3"
+      },
+      "evidence_mix": "question_confirmed=3",
+      "question_ids": [
+        "2024-S-07",
+        "2023-CA-02",
+        "2021-SA-03"
+      ],
+      "questions": [
+        {
+          "question_id": "2024-S-07",
+          "year": 2024,
+          "type": "选择题",
+          "text": "温室气体的识别。"
+        },
+        {
+          "question_id": "2023-CA-02",
+          "year": 2023,
+          "type": "案例分析",
+          "text": "全球变暖、冰盖融化、海平面上升及生态风险"
+        },
+        {
+          "question_id": "2021-SA-03",
+          "year": 2021,
+          "type": "简答题",
+          "text": "臭氧洞、臭氧层破坏物质及机制"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-a01",
+      "name": "酸雨",
+      "statistics": {
+        "paper_count": 4,
+        "subquestion_count": 0,
+        "year_count": 4,
+        "recent_year_count": 1,
+        "subjective_count": 3,
+        "comprehensive_count": 0,
+        "total_score": "20",
+        "weighted_score": "17.5",
+        "core_score": "20.025",
+        "trend": "周期性",
+        "exam_years": [
+          2012,
+          2014,
+          2016,
+          2022
+        ],
+        "evidence_mix": "question_confirmed=1; topic_confirmed=3"
+      },
+      "evidence_mix": "question_confirmed=1; topic_confirmed=3",
+      "question_ids": [
+        "2022-SA-06",
+        "2016-SA-01",
+        "2014-SA-01",
+        "2012-J-01"
+      ],
+      "questions": [
+        {
+          "question_id": "2022-SA-06",
+          "year": 2022,
+          "type": "问答题",
+          "text": "酸雨对生态环境的危害"
+        },
+        {
+          "question_id": "2016-SA-01",
+          "year": 2016,
+          "type": "简答题",
+          "text": "伦敦型烟雾与光化学烟雾的成因和条件"
+        },
+        {
+          "question_id": "2014-SA-01",
+          "year": 2014,
+          "type": "简答题",
+          "text": "酸雨形成原因及区域差异"
+        },
+        {
+          "question_id": "2012-J-01",
+          "year": 2012,
+          "type": "判断题",
+          "text": "酸雨及其形成机制。"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-s03",
+      "name": "土壤污染修复与安全利用",
+      "statistics": {
+        "paper_count": 3,
+        "subquestion_count": 1,
+        "year_count": 3,
+        "recent_year_count": 1,
+        "subjective_count": 3,
+        "comprehensive_count": 1,
+        "total_score": "18",
+        "weighted_score": "14.8",
+        "core_score": "18.41",
+        "trend": "周期性",
+        "exam_years": [
+          2012,
+          2020,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=2; answer_confirmed=1"
+      },
+      "evidence_mix": "question_confirmed=2; answer_confirmed=1",
+      "question_ids": [
+        "2025-CA-02-3",
+        "2020-SA-04",
+        "2012-N-03"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-CA-02-3",
+          "year": 2025,
+          "type": "案例分析",
+          "text": "镉污染土地的安全利用和修复技术。"
+        },
+        {
+          "question_id": "2020-SA-04",
+          "year": 2020,
+          "type": "简答题",
+          "text": "生物修复技术及其特点"
+        },
+        {
+          "question_id": "2012-N-03",
+          "year": 2012,
+          "type": "名词解释",
+          "text": "生物修复与生物处理"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w03",
+      "name": "生物膜法",
+      "statistics": {
+        "paper_count": 3,
+        "subquestion_count": 0,
+        "year_count": 3,
+        "recent_year_count": 2,
+        "subjective_count": 3,
+        "comprehensive_count": 0,
+        "total_score": "",
+        "weighted_score": "0.0",
+        "core_score": "17.05",
+        "trend": "周期性",
+        "exam_years": [
+          2019,
+          2024,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=2; answer_confirmed=1"
+      },
+      "evidence_mix": "question_confirmed=2; answer_confirmed=1",
+      "question_ids": [
+        "2025-SA-03",
+        "2024-SA-03",
+        "2019-N-02"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-SA-03",
+          "year": 2025,
+          "type": "简答题",
+          "text": "生物膜法的原理，与好氧活性污泥法的区别及各自优势。"
+        },
+        {
+          "question_id": "2024-SA-03",
+          "year": 2024,
+          "type": "简答题",
+          "text": "生物膜法和活性污泥法的净化原理、区别及各自优势。"
+        },
+        {
+          "question_id": "2019-N-02",
+          "year": 2019,
+          "type": "名词解释",
+          "text": "好氧附着生长系统"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-r01",
+      "name": "危险固体废物鉴别",
+      "statistics": {
+        "paper_count": 3,
+        "subquestion_count": 0,
+        "year_count": 3,
+        "recent_year_count": 2,
+        "subjective_count": 2,
+        "comprehensive_count": 0,
+        "total_score": "8",
+        "weighted_score": "4.8",
+        "core_score": "16.96",
+        "trend": "周期性",
+        "exam_years": [
+          2013,
+          2024,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=2; answer_confirmed=1"
+      },
+      "evidence_mix": "question_confirmed=2; answer_confirmed=1",
+      "question_ids": [
+        "2025-J-04",
+        "2024-SA-04",
+        "2013-N-02"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-J-04",
+          "year": 2025,
+          "type": "判断题",
+          "text": "危险固体废物是具有易燃性、腐蚀性、反应性特点的废物。"
+        },
+        {
+          "question_id": "2024-SA-04",
+          "year": 2024,
+          "type": "简答题",
+          "text": "危险固体废物的鉴别方法、常见危险废物及处理方法。"
+        },
+        {
+          "question_id": "2013-N-02",
+          "year": 2013,
+          "type": "名词解释",
+          "text": "危险废物"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-a06",
+      "name": "噪声污染",
+      "statistics": {
+        "paper_count": 4,
+        "subquestion_count": 0,
+        "year_count": 4,
+        "recent_year_count": 0,
+        "subjective_count": 3,
+        "comprehensive_count": 0,
+        "total_score": "14",
+        "weighted_score": "9.9",
+        "core_score": "15.88",
+        "trend": "多年未考",
+        "exam_years": [
+          2012,
+          2014,
+          2016,
+          2020
+        ],
+        "evidence_mix": "topic_confirmed=2; answer_confirmed=2"
+      },
+      "evidence_mix": "topic_confirmed=2; answer_confirmed=2",
+      "question_ids": [
+        "2020-N-01",
+        "2016-N-01",
+        "2014-SA-03",
+        "2012-J-03"
+      ],
+      "questions": [
+        {
+          "question_id": "2020-N-01",
+          "year": 2020,
+          "type": "名词解释",
+          "text": "环境噪声污染、水环境容量"
+        },
+        {
+          "question_id": "2016-N-01",
+          "year": 2016,
+          "type": "名词解释",
+          "text": "生物污染、城市热岛效应"
+        },
+        {
+          "question_id": "2014-SA-03",
+          "year": 2014,
+          "type": "简答题",
+          "text": "噪声污染来源、传播途径与控制"
+        },
+        {
+          "question_id": "2012-J-03",
+          "year": 2012,
+          "type": "判断题",
+          "text": "城市热岛效应及其成因。"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-m01",
+      "name": "环境监测设计与采样",
+      "statistics": {
+        "paper_count": 2,
+        "subquestion_count": 1,
+        "year_count": 2,
+        "recent_year_count": 2,
+        "subjective_count": 2,
+        "comprehensive_count": 1,
+        "total_score": "10",
+        "weighted_score": "10.0",
+        "core_score": "15.7",
+        "trend": "偶发",
+        "exam_years": [
+          2022,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=2"
+      },
+      "evidence_mix": "question_confirmed=2",
+      "question_ids": [
+        "2025-CA-02-2",
+        "2022-SA-04"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-CA-02-2",
+          "year": 2025,
+          "type": "案例分析",
+          "text": "镉污染监测评价的布点方法和评价依据。"
+        },
+        {
+          "question_id": "2022-SA-04",
+          "year": 2022,
+          "type": "问答题",
+          "text": "环境监测基本原则"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-f01",
+      "name": "环境容量",
+      "statistics": {
+        "paper_count": 3,
+        "subquestion_count": 0,
+        "year_count": 3,
+        "recent_year_count": 1,
+        "subjective_count": 3,
+        "comprehensive_count": 0,
+        "total_score": "4",
+        "weighted_score": "2.4",
+        "core_score": "13.93",
+        "trend": "周期性",
+        "exam_years": [
+          2018,
+          2020,
+          2021
+        ],
+        "evidence_mix": "question_confirmed=1; answer_confirmed=2"
+      },
+      "evidence_mix": "question_confirmed=1; answer_confirmed=2",
+      "question_ids": [
+        "2021-SA-02",
+        "2020-N-01",
+        "2018-N-01"
+      ],
+      "questions": [
+        {
+          "question_id": "2021-SA-02",
+          "year": 2021,
+          "type": "简答题",
+          "text": "水环境容量含义及影响因素"
+        },
+        {
+          "question_id": "2020-N-01",
+          "year": 2020,
+          "type": "名词解释",
+          "text": "环境噪声污染、水环境容量"
+        },
+        {
+          "question_id": "2018-N-01",
+          "year": 2018,
+          "type": "名词解释",
+          "text": "环境容量、COD"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-m02",
+      "name": "监测 QA/QC 与有效数据",
+      "statistics": {
+        "paper_count": 2,
+        "subquestion_count": 0,
+        "year_count": 2,
+        "recent_year_count": 2,
+        "subjective_count": 2,
+        "comprehensive_count": 0,
+        "total_score": "",
+        "weighted_score": "0.0",
+        "core_score": "13.5",
+        "trend": "偶发",
+        "exam_years": [
+          2021,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=2"
+      },
+      "evidence_mix": "question_confirmed=2",
+      "question_ids": [
+        "2025-SA-01",
+        "2021-SA-07"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-SA-01",
+          "year": 2025,
+          "type": "简答题",
+          "text": "环境监测质量控制。"
+        },
+        {
+          "question_id": "2021-SA-07",
+          "year": 2021,
+          "type": "简答题",
+          "text": "环境监测质量保证与质量控制"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w06",
+      "name": "混凝",
+      "statistics": {
+        "paper_count": 2,
+        "subquestion_count": 0,
+        "year_count": 2,
+        "recent_year_count": 2,
+        "subjective_count": 1,
+        "comprehensive_count": 0,
+        "total_score": "10",
+        "weighted_score": "10.0",
+        "core_score": "13.45",
+        "trend": "偶发",
+        "exam_years": [
+          2022,
+          2024
+        ],
+        "evidence_mix": "question_confirmed=2"
+      },
+      "evidence_mix": "question_confirmed=2",
+      "question_ids": [
+        "2024-S-05",
+        "2022-SA-01"
+      ],
+      "questions": [
+        {
+          "question_id": "2024-S-05",
+          "year": 2024,
+          "type": "选择题",
+          "text": "混凝的主要影响因素。"
+        },
+        {
+          "question_id": "2022-SA-01",
+          "year": 2022,
+          "type": "问答题",
+          "text": "混凝机理及影响混凝效果的因素"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-a03",
+      "name": "大气扩散与气象条件",
+      "statistics": {
+        "paper_count": 2,
+        "subquestion_count": 0,
+        "year_count": 2,
+        "recent_year_count": 1,
+        "subjective_count": 2,
+        "comprehensive_count": 0,
+        "total_score": "",
+        "weighted_score": "0.0",
+        "core_score": "11.125",
+        "trend": "偶发",
+        "exam_years": [
+          2014,
+          2024
+        ],
+        "evidence_mix": "question_confirmed=1; topic_confirmed=1"
+      },
+      "evidence_mix": "question_confirmed=1; topic_confirmed=1",
+      "question_ids": [
+        "2024-SA-05",
+        "2014-SA-02"
+      ],
+      "questions": [
+        {
+          "question_id": "2024-SA-05",
+          "year": 2024,
+          "type": "简答题",
+          "text": "室内空气污染来源、主要污染物和空气质量指标。"
+        },
+        {
+          "question_id": "2014-SA-02",
+          "year": 2014,
+          "type": "简答题",
+          "text": "典型公害事件及污染物危害"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-e02",
+      "name": "环境影响评价",
+      "statistics": {
+        "paper_count": 3,
+        "subquestion_count": 0,
+        "year_count": 3,
+        "recent_year_count": 0,
+        "subjective_count": 3,
+        "comprehensive_count": 0,
+        "total_score": "8",
+        "weighted_score": "4.8",
+        "core_score": "10.81",
+        "trend": "多年未考",
+        "exam_years": [
+          2013,
+          2016,
+          2018
+        ],
+        "evidence_mix": "answer_confirmed=3"
+      },
+      "evidence_mix": "answer_confirmed=3",
+      "question_ids": [
+        "2018-N-02",
+        "2016-N-02",
+        "2013-N-04"
+      ],
+      "questions": [
+        {
+          "question_id": "2018-N-02",
+          "year": 2018,
+          "type": "名词解释",
+          "text": "环境影响评价、环境规划"
+        },
+        {
+          "question_id": "2016-N-02",
+          "year": 2016,
+          "type": "名词解释",
+          "text": "环境影响评价制度"
+        },
+        {
+          "question_id": "2013-N-04",
+          "year": 2013,
+          "type": "名词解释",
+          "text": "环境影响评价"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w05",
+      "name": "沉淀",
+      "statistics": {
+        "paper_count": 2,
+        "subquestion_count": 0,
+        "year_count": 1,
+        "recent_year_count": 1,
+        "subjective_count": 1,
+        "comprehensive_count": 0,
+        "total_score": "",
+        "weighted_score": "0.0",
+        "core_score": "10.75",
+        "trend": "偶发",
+        "exam_years": [
+          2025
+        ],
+        "evidence_mix": "question_confirmed=2"
+      },
+      "evidence_mix": "question_confirmed=2",
+      "question_ids": [
+        "2025-SA-04",
+        "2025-S-06"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-SA-04",
+          "year": 2025,
+          "type": "简答题",
+          "text": "沉淀过程的几种沉淀类型、浓度变化及主要发生场所。"
+        },
+        {
+          "question_id": "2025-S-06",
+          "year": 2025,
+          "type": "选择题",
+          "text": "理想沉淀池表面负荷及其影响因素。"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-e04",
+      "name": "环境保护制度与经济手段",
+      "statistics": {
+        "paper_count": 2,
+        "subquestion_count": 0,
+        "year_count": 2,
+        "recent_year_count": 0,
+        "subjective_count": 2,
+        "comprehensive_count": 0,
+        "total_score": "8",
+        "weighted_score": "6.0",
+        "core_score": "8.085",
+        "trend": "偶发",
+        "exam_years": [
+          2013,
+          2017
+        ],
+        "evidence_mix": "topic_confirmed=1; answer_confirmed=1"
+      },
+      "evidence_mix": "topic_confirmed=1; answer_confirmed=1",
+      "question_ids": [
+        "2017-N-03",
+        "2013-SA-02"
+      ],
+      "questions": [
+        {
+          "question_id": "2017-N-03",
+          "year": 2017,
+          "type": "名词解释",
+          "text": "水污染、排污收费制度"
+        },
+        {
+          "question_id": "2013-SA-02",
+          "year": 2013,
+          "type": "简答题",
+          "text": "环境保护基本制度"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w04",
+      "name": "厌氧与 UASB 生物处理",
+      "statistics": {
+        "paper_count": 2,
+        "subquestion_count": 0,
+        "year_count": 2,
+        "recent_year_count": 0,
+        "subjective_count": 2,
+        "comprehensive_count": 0,
+        "total_score": "8",
+        "weighted_score": "6.0",
+        "core_score": "8.085",
+        "trend": "偶发",
+        "exam_years": [
+          2012,
+          2014
+        ],
+        "evidence_mix": "topic_confirmed=1; answer_confirmed=1"
+      },
+      "evidence_mix": "topic_confirmed=1; answer_confirmed=1",
+      "question_ids": [
+        "2014-N-03",
+        "2012-SA-03"
+      ],
+      "questions": [
+        {
+          "question_id": "2014-N-03",
+          "year": 2014,
+          "type": "名词解释",
+          "text": "UASB"
+        },
+        {
+          "question_id": "2012-SA-03",
+          "year": 2012,
+          "type": "简答题",
+          "text": "好氧与厌氧生物处理的条件、产物和降解能力差异。"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-f02",
+      "name": "环境自净",
+      "statistics": {
+        "paper_count": 1,
+        "subquestion_count": 0,
+        "year_count": 1,
+        "recent_year_count": 1,
+        "subjective_count": 1,
+        "comprehensive_count": 0,
+        "total_score": "10",
+        "weighted_score": "10.0",
+        "core_score": "6.95",
+        "trend": "偶发",
+        "exam_years": [
+          2022
+        ],
+        "evidence_mix": "question_confirmed=1"
+      },
+      "evidence_mix": "question_confirmed=1",
+      "question_ids": [
+        "2022-SA-02"
+      ],
+      "questions": [
+        {
+          "question_id": "2022-SA-02",
+          "year": 2022,
+          "type": "问答题",
+          "text": "环境自净作用及物理、化学、生物净化机制"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-f05",
+      "name": "环境科学与环境系统",
+      "statistics": {
+        "paper_count": 1,
+        "subquestion_count": 0,
+        "year_count": 1,
+        "recent_year_count": 0,
+        "subjective_count": 1,
+        "comprehensive_count": 1,
+        "total_score": "25",
+        "weighted_score": "25.0",
+        "core_score": "6.75",
+        "trend": "偶发",
+        "exam_years": [
+          2020
+        ],
+        "evidence_mix": "question_confirmed=1"
+      },
+      "evidence_mix": "question_confirmed=1",
+      "question_ids": [
+        "2020-L-01"
+      ],
+      "questions": [
+        {
+          "question_id": "2020-L-01",
+          "year": 2020,
+          "type": "论述题",
+          "text": "环境科学形成背景、分支和学科关系"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w10",
+      "name": "人工湿地与自然处理",
+      "statistics": {
+        "paper_count": 1,
+        "subquestion_count": 0,
+        "year_count": 1,
+        "recent_year_count": 1,
+        "subjective_count": 1,
+        "comprehensive_count": 0,
+        "total_score": "",
+        "weighted_score": "0.0",
+        "core_score": "6.75",
+        "trend": "偶发",
+        "exam_years": [
+          2021
+        ],
+        "evidence_mix": "question_confirmed=1"
+      },
+      "evidence_mix": "question_confirmed=1",
+      "question_ids": [
+        "2021-SA-04"
+      ],
+      "questions": [
+        {
+          "question_id": "2021-SA-04",
+          "year": 2021,
+          "type": "简答题",
+          "text": "人工湿地概念、废水处理应用及优缺点"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w11",
+      "name": "吸附与离子交换",
+      "statistics": {
+        "paper_count": 1,
+        "subquestion_count": 0,
+        "year_count": 1,
+        "recent_year_count": 1,
+        "subjective_count": 0,
+        "comprehensive_count": 0,
+        "total_score": "",
+        "weighted_score": "0.0",
+        "core_score": "6.5",
+        "trend": "偶发",
+        "exam_years": [
+          2024
+        ],
+        "evidence_mix": "question_confirmed=1"
+      },
+      "evidence_mix": "question_confirmed=1",
+      "question_ids": [
+        "2024-S-04"
+      ],
+      "questions": [
+        {
+          "question_id": "2024-S-04",
+          "year": 2024,
+          "type": "选择题",
+          "text": "离子交换吸附过程。"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-s02",
+      "name": "土壤背景值",
+      "statistics": {
+        "paper_count": 1,
+        "subquestion_count": 0,
+        "year_count": 1,
+        "recent_year_count": 0,
+        "subjective_count": 1,
+        "comprehensive_count": 0,
+        "total_score": "10",
+        "weighted_score": "10.0",
+        "core_score": "5.95",
+        "trend": "偶发",
+        "exam_years": [
+          2020
+        ],
+        "evidence_mix": "question_confirmed=1"
+      },
+      "evidence_mix": "question_confirmed=1",
+      "question_ids": [
+        "2020-SA-01"
+      ],
+      "questions": [
+        {
+          "question_id": "2020-SA-01",
+          "year": 2020,
+          "type": "简答题",
+          "text": "土壤背景值的概念、影响因素和应用"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-g02",
+      "name": "农业污染与畜禽粪污消纳",
+      "statistics": {
+        "paper_count": 1,
+        "subquestion_count": 0,
+        "year_count": 1,
+        "recent_year_count": 0,
+        "subjective_count": 1,
+        "comprehensive_count": 0,
+        "total_score": "",
+        "weighted_score": "0.0",
+        "core_score": "4.375",
+        "trend": "偶发",
+        "exam_years": [
+          2016
+        ],
+        "evidence_mix": "topic_confirmed=1"
+      },
+      "evidence_mix": "topic_confirmed=1",
+      "question_ids": [
+        "2016-SA-03"
+      ],
+      "questions": [
+        {
+          "question_id": "2016-SA-03",
+          "year": 2016,
+          "type": "简答题",
+          "text": "畜禽养殖污染及治理"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-w09",
+      "name": "膜分离与反渗透",
+      "statistics": {
+        "paper_count": 1,
+        "subquestion_count": 0,
+        "year_count": 1,
+        "recent_year_count": 0,
+        "subjective_count": 1,
+        "comprehensive_count": 0,
+        "total_score": "",
+        "weighted_score": "0.0",
+        "core_score": "3.55",
+        "trend": "偶发",
+        "exam_years": [
+          2014
+        ],
+        "evidence_mix": "answer_confirmed=1"
+      },
+      "evidence_mix": "answer_confirmed=1",
+      "question_ids": [
+        "2014-N-04"
+      ],
+      "questions": [
+        {
+          "question_id": "2014-N-04",
+          "year": 2014,
+          "type": "名词解释",
+          "text": "反渗透"
+        }
+      ]
+    },
+    {
+      "learning_unit_id": "lu-x01",
+      "name": "跨介质迁移兼容桥接（待细分）",
+      "statistics": {
+        "paper_count": 7,
+        "subquestion_count": 0,
+        "year_count": 7,
+        "recent_year_count": 4,
+        "subjective_count": 4,
+        "comprehensive_count": 4,
+        "total_score": "54",
+        "weighted_score": "45.5",
+        "core_score": "42.205",
+        "trend": "长期稳定高频",
+        "exam_years": [
+          2015,
+          2018,
+          2020,
+          2021,
+          2023,
+          2024,
+          2025
+        ],
+        "evidence_mix": "question_confirmed=4; topic_confirmed=3"
+      },
+      "evidence_mix": "question_confirmed=4; topic_confirmed=3",
+      "question_ids": [
+        "2025-S-04",
+        "2024-S-08",
+        "2023-S-01",
+        "2021-L-01",
+        "2020-CA-01",
+        "2018-L-01",
+        "2015-CA-01"
+      ],
+      "questions": [
+        {
+          "question_id": "2025-S-04",
+          "year": 2025,
+          "type": "选择题",
+          "text": "土壤中实现污染物转化、净化等作用的过程或组分。"
+        },
+        {
+          "question_id": "2024-S-08",
+          "year": 2024,
+          "type": "选择题",
+          "text": "污水处理厂工艺选址原则。"
+        },
+        {
+          "question_id": "2023-S-01",
+          "year": 2023,
+          "type": "选择题",
+          "text": "环境污染、农业污染、污染控制与评价相关选择题"
+        },
+        {
+          "question_id": "2021-L-01",
+          "year": 2021,
+          "type": "论述题",
+          "text": "南水北调工程意义、沿线生态环境问题及解决方案"
+        },
+        {
+          "question_id": "2020-CA-01",
+          "year": 2020,
+          "type": "分析题",
+          "text": "长江生态环境问题及污染治理措施"
+        },
+        {
+          "question_id": "2018-L-01",
+          "year": 2018,
+          "type": "论述题",
+          "text": "当前生态环境问题及综合防治"
+        },
+        {
+          "question_id": "2015-CA-01",
+          "year": 2015,
+          "type": "案例分析",
+          "text": "养殖污水处理工艺选择与组合"
+        }
+      ]
+    }
+  ]
+}
